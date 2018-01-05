@@ -1,0 +1,6 @@
+Opportunity__c,CurrentAmount__c,CurrentCloseDate__c,Previous_Forecast_Category__c,Previous_Stage__c,Previous_Amount__c,Previous_Close_Date__c,Ending_Bucket__c,Is_Test_Record__c,View_Type__c
+0061500000TvHMx,37750,2016-06-30,Pipeline,Stage 2 - Defined Oppty,37750,2016-06-24,G_ClosedWon-NotInForecast,TRUE,Pipeline
+0061500000TvHN2,16957,2016-06-30,Pipeline,Stage 0 - Qualified Lead,16957,2016-06-29,G_ClosedWon-NotInForecast,TRUE,Pipeline
+0061500000TvHN7,17250,2016-06-30,Pipeline,Deal Identified,17250,2016-07-01,G_ClosedWon-NotInForecast,TRUE,Pipeline
+0061500000TvHNH,13688,2016-06-30,Pipeline,Deal Identified,6300,2016-07-01,G_ClosedWon-NotInForecast,TRUE,Pipeline
+0061500000TvHNC,104275.8,2016-06-30,BestCase,Stage 3 - Proof,104275.8,2016-06-30,G_ClosedWon-InForecast,TRUE,Pipeline

@@ -1,0 +1,483 @@
+OpportunityId,StageName,Amount,CreatedDate,ForecastCategory,CloseDate,PrevForCat,PrevStage,PrevAmount,PrevCloseDate,EndingBucket,snapshot_date_label
+0061500000SFdWi,Closed Won,37750,7/1/2016 11:55,Closed,6/30/2016,Pipeline,Stage 2 - Defined Oppty,37750,6/24/2016,G_ClosedWon-NotInForecast,this_month
+0061500000SFdWj,Closed Won,16957,7/1/2016 11:21,Closed,6/30/2016,Pipeline,Stage 0 - Qualified Lead,16957,6/29/2016,G_ClosedWon-NotInForecast,this_month
+0061500000SFdWm,Closed Won,17250,6/30/2016 20:58,Closed,6/30/2016,Pipeline,Deal Identified,17250,7/1/2016,G_ClosedWon-NotInForecast,this_month
+0061500000SFdWg,Closed Won,13688,7/1/2016 14:47,Closed,6/30/2016,Pipeline,Deal Identified,6300,7/1/2016,G_ClosedWon-NotInForecast,this_month
+0061500000SFdWf,Closed Won,104275.8,6/30/2016 21:10,Closed,6/30/2016,BestCase,Stage 3 - Proof,104275.8,6/30/2016,G_ClosedWon-InForecast,this_month
+0061500000TvHNC,Closed Won,65000,7/1/2016 11:40,Closed,6/30/2016,Forecast,Stage 5 - Purchasing,81000,6/28/2016,G_ClosedWon-InForecast,this_month
+0061500000TBlgx,Closed Won,38229,7/6/2016 14:36,Closed,7/6/2016,Forecast,Stage 4 - Commercial Agmt,38229,6/30/2016,G_ClosedWon-InForecast,this_month
+0061500000TBlhA,Closed Won,45000,6/30/2016 20:22,Closed,6/30/2016,Forecast,Stage 7 - Order Rcvd,45000,6/30/2016,G_ClosedWon-InForecast,this_month
+0061500000TBlhD,Closed Won,45000,6/30/2016 21:29,Closed,6/30/2016,Forecast,Stage 4 - Commercial Agmt,45000,6/30/2016,G_ClosedWon-InForecast,this_month
+0061500000TBlhF,Closed Won,55500,7/1/2016 13:40,Closed,6/30/2016,Forecast,Stage 4 - Commercial Agmt,57000,6/30/2016,G_ClosedWon-InForecast,this_month
+0061500000SFdWi,Closed Won,25000,7/1/2016 13:24,Closed,6/30/2016,Forecast,Stage 4 - Commercial Agmt,25000,6/30/2016,G_ClosedWon-InForecast,this_month
+0061500000SFdWj,Closed Won,4999.99,6/30/2016 21:35,Closed,6/30/2016,Forecast,Stage 4 - Commercial Agmt,10000,6/30/2016,G_ClosedWon-InForecast,this_month
+0061500000SFdWm,Closed Won,-35000,7/1/2016 12:41,Closed,6/30/2016,Forecast,Stage 7 - Order Rcvd,-35000,6/30/2016,G_ClosedWon-InForecast,this_month
+0061500000SFdWg,Closed Won,15000,6/30/2016 22:01,Closed,6/30/2016,Forecast,Stage 7 - Order Rcvd,15000,6/30/2016,G_ClosedWon-InForecast,this_month
+0061500000SFdWf,Stage 3 - Proof,75000,7/1/2016 17:22,BestCase,9/16/2016,Pipeline,Stage 2 - Defined Oppty,75000,8/31/2016,H_EnteredForecast,this_month
+0061500000TvHNC,Stage 3 - Proof,10000,7/1/2016 6:58,BestCase,9/30/2016,Pipeline,Stage 1 - Qualified Oppty,10000,12/15/2016,H_EnteredForecast,this_month
+0061500000TBlgx,Stage 3 - Proof,100000,7/6/2016 11:14,BestCase,9/22/2016,Pipeline,Stage 2 - Defined Oppty,100000,9/22/2016,H_EnteredForecast,this_month
+0061500000TBlhA,Closed Lost,-20500,7/1/2016 2:10,Omitted,6/30/2016,BestCase,Stage 3 - Proof,20500,6/28/2016,C_Lost,this_month
+0061500000TBlhD,Stage 4 - Commercial Agmt,10000,7/5/2016 12:54,Forecast,7/18/2016,Forecast,Stage 4 - Commercial Agmt,150000,7/18/2016,B_Expanded_Amount,this_month
+0061500000TBlhF,Stage 4 - Commercial Agmt,25000,7/5/2016 12:55,Forecast,8/31/2016,Forecast,Stage 4 - Commercial Agmt,45000,8/31/2016,B_Expanded_Amount,this_month
+0061500000SFdWi,Stage 5 - Purchasing,50000,7/1/2016 7:22,Forecast,7/15/2016,Forecast,Stage 5 - Purchasing,35000,7/15/2016,B_Expanded_Amount,this_month
+0061500000SFdWj,Stage 3 - Proof,20000,7/1/2016 7:54,BestCase,9/26/2016,BestCase,Stage 3 - Proof,30000,9/26/2016,B_Expanded_Amount,this_month
+0061500000SFdWm,Stage 3 - Proof,-89000,7/1/2016 6:58,BestCase,9/30/2016,BestCase,Stage 3 - Proof,122000,9/30/2016,B_Reduced_Amount,this_month
+0061500000SFdWg,Stage 7 - Order Rcvd,-5000,7/1/2016 13:06,Forecast,6/5/2018,Forecast,Stage 7 - Order Rcvd,20000,6/5/2018,B_Reduced_Amount,this_month
+,10% of opportunities constitutes 42% of open pipeline amount,24145370.17,7/8/2016 20:00,StartPipe,7/9/2016,,,,7/9/2016,,this_month
+,10% of opportunities constitutes 29% of open pipeline amount,23935365.37,7/8/2016 20:00,EndPipe,7/9/2016,,,,7/9/2016,,this_month
+0061500000TBlgx,Closed Won,37750,7/1/2016 11:55,Closed,6/30/2016,Pipeline,Stage 2 - Defined Oppty,37750,6/24/2016,G_ClosedWon-NotInForecast,this_quarter
+0061500000TBlhA,Closed Won,16957,7/1/2016 11:21,Closed,6/30/2016,Pipeline,Stage 0 - Qualified Lead,16957,6/29/2016,G_ClosedWon-NotInForecast,this_quarter
+0061500000TBlhD,Closed Won,17250,6/30/2016 20:58,Closed,6/30/2016,Pipeline,Deal Identified,17250,7/1/2016,G_ClosedWon-NotInForecast,this_quarter
+0061500000TBlhF,Closed Won,13688,7/1/2016 14:47,Closed,6/30/2016,Pipeline,Deal Identified,6300,7/1/2016,G_ClosedWon-NotInForecast,this_quarter
+0061500000SFdWi,Closed Won,104275.8,6/30/2016 21:10,Closed,6/30/2016,BestCase,Stage 3 - Proof,104275.8,6/30/2016,G_ClosedWon-InForecast,this_quarter
+0061500000SFdWj,Closed Won,65000,7/1/2016 11:40,Closed,6/30/2016,Forecast,Stage 5 - Purchasing,81000,6/28/2016,G_ClosedWon-InForecast,this_quarter
+0061500000SFdWm,Closed Won,38229,7/6/2016 14:36,Closed,7/6/2016,Forecast,Stage 4 - Commercial Agmt,38229,6/30/2016,G_ClosedWon-InForecast,this_quarter
+0061500000SFdWg,Closed Won,45000,6/30/2016 20:22,Closed,6/30/2016,Forecast,Stage 7 - Order Rcvd,45000,6/30/2016,G_ClosedWon-InForecast,this_quarter
+0061500000SFdWf,Closed Won,45000,6/30/2016 21:29,Closed,6/30/2016,Forecast,Stage 4 - Commercial Agmt,45000,6/30/2016,G_ClosedWon-InForecast,this_quarter
+0061500000TvHNC,Closed Won,55500,7/1/2016 13:40,Closed,6/30/2016,Forecast,Stage 4 - Commercial Agmt,57000,6/30/2016,G_ClosedWon-InForecast,this_quarter
+0061500000TBlgx,Closed Won,25000,7/1/2016 13:24,Closed,6/30/2016,Forecast,Stage 4 - Commercial Agmt,25000,6/30/2016,G_ClosedWon-InForecast,this_quarter
+0061500000TBlhA,Closed Won,4999.99,6/30/2016 21:35,Closed,6/30/2016,Forecast,Stage 4 - Commercial Agmt,10000,6/30/2016,G_ClosedWon-InForecast,this_quarter
+0061500000TBlhD,Closed Won,-35000,7/1/2016 12:41,Closed,6/30/2016,Forecast,Stage 7 - Order Rcvd,-35000,6/30/2016,G_ClosedWon-InForecast,this_quarter
+0061500000TBlhF,Closed Won,15000,6/30/2016 22:01,Closed,6/30/2016,Forecast,Stage 7 - Order Rcvd,15000,6/30/2016,G_ClosedWon-InForecast,this_quarter
+0061500000SFdWi,Stage 3 - Proof,75000,7/1/2016 17:22,BestCase,9/16/2016,Pipeline,Stage 2 - Defined Oppty,75000,8/31/2016,H_EnteredForecast,this_quarter
+0061500000SFdWj,Stage 3 - Proof,10000,7/1/2016 6:58,BestCase,9/30/2016,Pipeline,Stage 1 - Qualified Oppty,10000,12/15/2016,H_EnteredForecast,this_quarter
+0061500000SFdWm,Stage 3 - Proof,100000,7/6/2016 11:14,BestCase,9/22/2016,Pipeline,Stage 2 - Defined Oppty,100000,9/22/2016,H_EnteredForecast,this_quarter
+0061500000SFdWg,Closed Lost,-20500,7/1/2016 2:10,Omitted,6/30/2016,BestCase,Stage 3 - Proof,20500,6/28/2016,C_Lost,this_quarter
+0061500000SFdWf,Stage 4 - Commercial Agmt,10000,7/5/2016 12:54,Forecast,7/18/2016,Forecast,Stage 4 - Commercial Agmt,150000,7/18/2016,B_Expanded_Amount,this_quarter
+0061500000TvHNC,Stage 4 - Commercial Agmt,25000,7/5/2016 12:55,Forecast,8/31/2016,Forecast,Stage 4 - Commercial Agmt,45000,8/31/2016,B_Expanded_Amount,this_quarter
+0061500000TBlgx,Stage 5 - Purchasing,50000,7/1/2016 7:22,Forecast,7/15/2016,Forecast,Stage 5 - Purchasing,35000,7/15/2016,B_Expanded_Amount,this_quarter
+0061500000TBlhA,Stage 3 - Proof,20000,7/1/2016 7:54,BestCase,9/26/2016,BestCase,Stage 3 - Proof,30000,9/26/2016,B_Expanded_Amount,this_quarter
+0061500000TBlhD,Stage 3 - Proof,-89000,7/1/2016 6:58,BestCase,9/30/2016,BestCase,Stage 3 - Proof,122000,9/30/2016,B_Reduced_Amount,this_quarter
+0061500000TBlhF,Stage 7 - Order Rcvd,-5000,7/1/2016 13:06,Forecast,6/5/2018,Forecast,Stage 7 - Order Rcvd,20000,6/5/2018,B_Reduced_Amount,this_quarter
+,10% of opportunities constitutes 42% of open pipeline amount,24145370.17,7/8/2016 20:00,StartPipe,7/9/2016,,,,7/9/2016,,this_quarter
+,10% of opportunities constitutes 29% of open pipeline amount,23935365.37,7/8/2016 20:00,EndPipe,7/9/2016,,,,7/9/2016,,this_quarter
+0061500000SFdWm,Closed Won,19000,2/12/2016 20:36,Closed,2/1/2016,Pipeline,Stage 1 - Qualified Oppty,19000,2/1/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWg,Closed Won,95200,1/25/2016 14:21,Closed,1/25/2016,Pipeline,Stage 1 - Qualified Oppty,95200,1/5/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlgx,Closed Won,30000,6/28/2016 18:12,Closed,6/28/2016,Pipeline,Stage 1 - Qualified Oppty,30000,6/30/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlhA,Closed Won,30000,4/13/2016 5:12,Closed,4/8/2016,Pipeline,Prospecting,27500,4/14/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlhD,Closed Won,104275.8,6/30/2016 21:10,Closed,6/30/2016,Pipeline,Stage 1 - Qualified Oppty,73820,6/30/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlhF,Closed Won,55000,3/30/2016 16:43,Closed,3/30/2016,Pipeline,Stage 1 - Qualified Oppty,50000,3/30/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWi,Closed Won,121667,4/5/2016 22:12,Closed,4/5/2016,Pipeline,Stage 2 - Defined Oppty,121667,3/30/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWi,Closed Won,23500,3/30/2016 18:02,Closed,3/30/2016,Pipeline,Stage 2 - Defined Oppty,25000,3/30/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWj,Closed Won,771750,6/29/2016 19:10,Closed,6/29/2016,Pipeline,Stage 1 - Qualified Oppty,457324,6/30/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWm,Closed Won,366667,6/17/2016 16:17,Closed,6/17/2016,Pipeline,Stage 1 - Qualified Oppty,350000,5/2/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWg,Closed Won,27678.83,3/28/2016 18:51,Closed,3/28/2016,Pipeline,Stage 1 - Qualified Oppty,29307,5/15/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWf,Closed Won,90000,4/25/2016 19:09,Closed,4/25/2016,Pipeline,Stage 1 - Qualified Oppty,100000,5/30/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TvHNC,Closed Won,103750,6/27/2016 20:29,Closed,6/27/2016,Pipeline,Stage 1 - Qualified Oppty,100000,6/30/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlgx,Closed Won,111562,6/28/2016 18:17,Closed,6/28/2016,Pipeline,Stage 1 - Qualified Oppty,106250,7/1/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlhA,Closed Won,65000,7/1/2016 11:40,Closed,6/30/2016,Pipeline,Stage 1 - Qualified Oppty,60000,6/28/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlhD,Closed Won,38229,7/6/2016 14:36,Closed,7/6/2016,Pipeline,Stage 1 - Qualified Oppty,36375,6/30/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlhF,Closed Won,126782,6/29/2016 17:44,Closed,6/29/2016,Pipeline,Stage 1 - Qualified Oppty,126782,6/28/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWi,Closed Won,45000,6/30/2016 20:22,Closed,6/30/2016,Pipeline,Stage 1 - Qualified Oppty,41703,8/25/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWj,Closed Won,135000,4/28/2016 17:46,Closed,4/28/2016,Pipeline,Stage 1 - Qualified Oppty,85144.33,6/5/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWm,Closed Won,36000,3/29/2016 20:48,Closed,3/29/2016,Pipeline,Stage 1 - Qualified Oppty,36000,3/16/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWg,Closed Won,10000,3/31/2016 15:03,Closed,3/31/2016,Pipeline,Stage 0 - Qualified Lead,35000,6/30/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWf,Closed Won,121500,4/8/2016 16:10,Closed,4/8/2016,Pipeline,Stage 1 - Qualified Oppty,144500,3/30/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TvHNC,Closed Won,135000,3/28/2016 14:49,Closed,3/28/2016,Pipeline,Stage 0 - Qualified Lead,150000,4/10/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlgx,Closed Won,83000,3/28/2016 15:31,Closed,3/28/2016,Pipeline,Stage 0 - Qualified Lead,82000,3/30/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlhA,Closed Won,5000,3/14/2016 15:43,Closed,3/14/2016,Pipeline,Stage 0 - Qualified Lead,5000,2/16/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlhD,Closed Won,12500,3/15/2016 20:55,Closed,3/15/2016,Pipeline,Stage 1 - Qualified Oppty,10000,3/3/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlhF,Closed Won,0,2/1/2016 15:20,Closed,1/31/2016,Pipeline,Stage 1 - Qualified Oppty,0,2/13/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWi,Closed Won,25000,3/15/2016 17:46,Closed,3/10/2016,Pipeline,Stage 2 - Defined Oppty,20000,3/2/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWj,Closed Won,200000,4/13/2016 5:11,Closed,4/8/2016,Pipeline,Stage 1 - Qualified Oppty,211200,4/1/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWm,Closed Won,83333,6/30/2016 16:25,Closed,6/30/2016,Pipeline,Stage 0 - Qualified Lead,83333,5/31/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWg,Closed Won,8550,3/31/2016 15:31,Closed,3/31/2016,Pipeline,Stage 2 - Defined Oppty,8550,3/31/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlgx,Closed Won,55750,3/30/2016 18:37,Closed,3/30/2016,Pipeline,Stage 0 - Qualified Lead,55750,3/27/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlhA,Closed Won,25000,5/9/2016 19:37,Closed,5/9/2016,Pipeline,Stage 0 - Qualified Lead,21000,4/6/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlhD,Closed Won,20000,2/29/2016 19:11,Closed,2/29/2016,Pipeline,Stage 0 - Qualified Lead,15000,4/1/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlhF,Closed Won,35900,3/23/2016 20:14,Closed,3/23/2016,Pipeline,Stage 2 - Defined Oppty,35900,4/5/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWi,Closed Won,52800,3/31/2016 16:11,Closed,3/31/2016,Pipeline,Stage 0 - Qualified Lead,33000,3/14/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWj,Closed Won,48000,4/15/2016 20:03,Closed,4/15/2016,Pipeline,Stage 0 - Qualified Lead,45000,4/17/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWm,Closed Won,40000,3/25/2016 13:34,Closed,3/25/2016,Pipeline,Quote Prepared,55500,2/12/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWg,Closed Won,51000,5/9/2016 14:15,Closed,5/9/2016,Pipeline,Stage 0 - Qualified Lead,51000,4/19/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWf,Closed Won,45000,6/30/2016 21:29,Closed,6/30/2016,Pipeline,Stage 1 - Qualified Oppty,45000,5/16/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TvHNC,Closed Won,10000,6/3/2016 13:10,Closed,5/17/2016,Pipeline,Stage 0 - Qualified Lead,10000,5/17/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlgx,Closed Won,325000,6/1/2016 16:28,Closed,5/31/2016,Pipeline,Stage 0 - Qualified Lead,325000,4/7/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlhA,Closed Won,86250,5/23/2016 19:26,Closed,5/23/2016,Pipeline,Stage 0 - Qualified Lead,86250,4/30/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlhD,Closed Won,13043,6/3/2016 13:11,Closed,5/31/2016,Pipeline,Stage 0 - Qualified Lead,13043,6/10/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlhF,Closed Won,25000,6/24/2016 20:25,Closed,6/24/2016,Pipeline,Stage 1 - Qualified Oppty,15000,6/20/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWi,Closed Won,18000,5/23/2016 19:07,Closed,5/23/2016,Pipeline,Stage 1 - Qualified Oppty,9000,5/31/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWj,Closed Won,20000,6/8/2016 19:52,Closed,6/8/2016,Pipeline,Stage 0 - Qualified Lead,20869,6/9/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWm,Closed Won,15217,6/10/2016 15:30,Closed,6/10/2016,Pipeline,Stage 0 - Qualified Lead,15217,6/13/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWg,Closed Won,70000,3/22/2016 18:00,Closed,3/22/2016,Pipeline,Quote Prepared,14999,1/29/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWf,Closed Won,116667,6/28/2016 18:36,Closed,6/28/2016,Pipeline,Stage 0 - Qualified Lead,116667,6/10/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TvHNC,Closed Won,245656.06,6/30/2016 18:50,Closed,6/30/2016,Pipeline,Stage 1 - Qualified Oppty,150638,6/30/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlgx,Closed Won,3750,6/27/2016 14:09,Closed,6/27/2016,Pipeline,Stage 0 - Qualified Lead,5000,6/30/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlhA,Closed Won,60870,6/29/2016 16:50,Closed,6/29/2016,Pipeline,Stage 0 - Qualified Lead,60870,6/30/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlhD,Closed Won,57333.33,6/21/2016 16:04,Closed,6/21/2016,Pipeline,Stage 0 - Qualified Lead,57333.33,6/29/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlhF,Closed Won,40000,6/20/2016 14:07,Closed,6/20/2016,Pipeline,Stage 0 - Qualified Lead,40000,6/30/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWm,Closed Won,17250,6/8/2016 19:35,Closed,6/8/2016,Pipeline,Stage 1 - Qualified Oppty,17520,6/30/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWg,Closed Won,250000,6/21/2016 15:22,Closed,6/21/2016,Pipeline,Stage 1 - Qualified Oppty,250000,5/28/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlgx,Closed Won,37750,7/1/2016 11:55,Closed,6/30/2016,Pipeline,Stage 0 - Qualified Lead,35000,6/15/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlhA,Closed Won,16957,7/1/2016 11:21,Closed,6/30/2016,Pipeline,Stage 0 - Qualified Lead,16957,7/5/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlhD,Closed Won,153000,6/20/2016 14:29,Closed,6/20/2016,Pipeline,Stage 0 - Qualified Lead,150000,6/30/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlhF,Closed Won,55000,6/30/2016 18:30,Closed,6/30/2016,Pipeline,Stage 0 - Qualified Lead,72000,6/25/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWi,Closed Won,67500,6/30/2016 16:13,Closed,6/30/2016,Pipeline,Stage 0 - Qualified Lead,67500,6/30/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWi,Closed Won,22500,6/23/2016 19:22,Closed,6/23/2016,Pipeline,Deal Identified,14999,4/29/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWj,Closed Won,10000,4/13/2016 19:58,Closed,4/13/2016,Pipeline,Stage 0 - Qualified Lead,5000,6/30/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWm,Closed Won,119000,6/28/2016 17:54,Closed,6/22/2016,Pipeline,Stage 1 - Qualified Oppty,105000,6/15/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWg,Closed Won,25000,5/9/2016 19:02,Closed,5/9/2016,Pipeline,Stage 0 - Qualified Lead,25000,7/12/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWf,Closed Won,50000,6/16/2016 16:49,Closed,6/16/2016,Pipeline,Stage 0 - Qualified Lead,50000,6/30/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TvHNC,Closed Won,32640,4/22/2016 14:02,Closed,4/22/2016,Pipeline,Stage 0 - Qualified Lead,21600,7/31/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlgx,Closed Won,35000,3/29/2016 21:04,Closed,3/29/2016,Pipeline,Stage 2 - Defined Oppty,35000,3/31/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlhA,Closed Won,100000,6/29/2016 18:08,Closed,6/29/2016,Pipeline,Stage 0 - Qualified Lead,100000,7/30/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlhD,Closed Won,39600,4/27/2016 13:02,Closed,4/27/2016,Pipeline,Stage 2 - Defined Oppty,35000,2/20/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlhF,Closed Won,17250,6/30/2016 20:58,Closed,6/30/2016,Pipeline,Deal Identified,19999,1/29/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWi,Closed Won,29973,3/18/2016 11:40,Closed,3/18/2016,Pipeline,Stage 1 - Qualified Oppty,30000,3/20/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWj,Closed Won,4000,6/23/2016 19:21,Closed,6/23/2016,Pipeline,Deal Identified,5000,2/12/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWm,Closed Won,40000,6/21/2016 15:43,Closed,6/21/2016,Pipeline,Stage 1 - Qualified Oppty,24167,6/7/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWg,Closed Won,34500,2/25/2016 14:15,Closed,2/25/2016,Pipeline,Quote Prepared,14999,12/31/2015,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWf,Closed Won,13500,2/25/2016 16:31,Closed,2/25/2016,Pipeline,Deal Identified,19998,12/31/2015,G_ClosedWon-NotInForecast,six_months
+0061500000TvHNC,Closed Won,27000,1/20/2016 18:14,Closed,1/20/2016,Pipeline,Quote Prepared,28000,1/29/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlgx,Closed Won,21000,2/1/2016 15:14,Closed,1/31/2016,Pipeline,Quote Prepared,21000,1/15/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlhA,Closed Won,15300,1/27/2016 14:31,Closed,1/27/2016,Pipeline,SOW Accepted/PO Pending,15300,1/22/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlhD,Closed Won,4500,2/11/2016 16:26,Closed,2/11/2016,Pipeline,Quote Prepared,7000,1/8/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlhF,Closed Won,27000,2/4/2016 21:05,Closed,2/4/2016,Pipeline,Deal Identified,39997,1/31/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWi,Closed Won,91000,3/1/2016 14:15,Closed,2/29/2016,Pipeline,Quote Prepared,48500,2/5/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWj,Closed Won,63500,1/20/2016 19:15,Closed,1/20/2016,Pipeline,Quote Prepared,21000,1/29/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWm,Closed Won,5000,2/10/2016 18:45,Closed,2/10/2016,Pipeline,Stage 2 - Defined Oppty,5000,2/15/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWg,Closed Won,56750,2/11/2016 16:16,Closed,2/11/2016,Pipeline,Quote Prepared,39997,12/31/2015,G_ClosedWon-NotInForecast,six_months
+0061500000TBlgx,Closed Won,17392,6/3/2016 13:11,Closed,5/31/2016,Pipeline,Stage 0 - Qualified Lead,17391,3/31/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlhA,Closed Won,90000,1/20/2016 19:00,Closed,1/20/2016,Pipeline,Quote Prepared,19998,1/31/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlhD,Closed Won,66000,3/31/2016 21:13,Closed,3/31/2016,Pipeline,Stage 2 - Defined Oppty,100000,4/29/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlhF,Closed Won,88200,2/1/2016 16:56,Closed,1/31/2016,Pipeline,Deal Identified,19999,1/15/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWi,Closed Won,7000,5/2/2016 14:05,Closed,4/30/2016,Pipeline,Quote Prepared,7000,2/19/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWj,Closed Won,67500,2/29/2016 17:00,Closed,2/29/2016,Pipeline,Deal Identified,19998,12/31/2015,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWm,Closed Won,0,2/1/2016 18:58,Closed,1/31/2016,Pipeline,Stage 2 - Defined Oppty,0,12/18/2015,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWg,Closed Won,6000,2/29/2016 16:30,Closed,2/29/2016,Pipeline,Quote Prepared,14999,1/29/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWf,Closed Won,28000,1/20/2016 18:50,Closed,1/20/2016,Pipeline,Quote Prepared,14999,1/15/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TvHNC,Closed Won,14000,1/27/2016 14:11,Closed,1/27/2016,Pipeline,Quote Prepared,14999,1/15/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlgx,Closed Won,155000,1/28/2016 16:12,Closed,1/28/2016,Pipeline,Stage 1 - Qualified Oppty,41667,1/31/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlhA,Closed Won,10000,2/4/2016 21:08,Closed,2/4/2016,Pipeline,Deal Identified,10000,1/31/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlhD,Closed Won,68000,2/16/2016 13:24,Closed,2/16/2016,Pipeline,Stage 1 - Qualified Oppty,68000,2/20/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlhF,Closed Won,26000,4/28/2016 13:59,Closed,4/28/2016,Pipeline,Stage 1 - Qualified Oppty,26000,4/3/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWi,Closed Won,55939,2/22/2016 14:05,Closed,2/16/2016,Pipeline,Stage 0 - Qualified Lead,55940,2/20/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWj,Closed Won,65110,5/23/2016 16:45,Closed,2/22/2015,Pipeline,Stage 1 - Qualified Oppty,65110,2/27/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWm,Closed Won,75000,4/28/2016 14:01,Closed,4/28/2016,Pipeline,Stage 1 - Qualified Oppty,75000,4/23/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWg,Closed Won,1960,4/28/2016 14:01,Closed,4/28/2016,Pipeline,Stage 1 - Qualified Oppty,1960,4/23/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWf,Closed Won,60000,3/25/2016 18:35,Closed,3/25/2016,Pipeline,Stage 1 - Qualified Oppty,60000,3/30/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TvHNC,Closed Won,92500,3/15/2016 20:44,Closed,2/24/2016,Pipeline,Stage 1 - Qualified Oppty,92500,2/28/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlgx,Closed Won,65000,5/23/2016 14:24,Closed,5/23/2016,Pipeline,Stage 1 - Qualified Oppty,65000,5/30/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlhA,Closed Won,328194,3/11/2016 13:49,Closed,3/1/2016,Pipeline,Stage 1 - Qualified Oppty,328194,3/1/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlhD,Closed Won,75167,3/25/2016 18:34,Closed,3/25/2016,Pipeline,Stage 1 - Qualified Oppty,136666,3/31/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlhF,Closed Won,32000,5/23/2016 14:24,Closed,5/23/2016,Pipeline,Stage 1 - Qualified Oppty,32000,5/30/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWm,Closed Won,103500,3/25/2016 18:32,Closed,3/25/2016,Pipeline,Stage 1 - Qualified Oppty,103500,3/30/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWg,Closed Won,28334,3/25/2016 18:31,Closed,3/25/2016,Pipeline,Stage 1 - Qualified Oppty,28334,3/30/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlgx,Closed Won,75000,6/28/2016 18:12,Closed,6/28/2016,Pipeline,Stage 1 - Qualified Oppty,100000,6/25/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlhA,Closed Won,26000,3/25/2016 18:33,Closed,3/25/2016,Pipeline,Stage 1 - Qualified Oppty,26000,3/30/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlhD,Closed Won,50000,3/25/2016 18:35,Closed,3/25/2016,Pipeline,Stage 1 - Qualified Oppty,50000,3/31/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlhF,Closed Won,50000,6/28/2016 18:15,Closed,6/28/2016,Pipeline,Stage 1 - Qualified Oppty,50000,6/29/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWi,Closed Won,62333,6/28/2016 18:16,Closed,6/28/2016,Pipeline,Stage 1 - Qualified Oppty,62333,6/30/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWi,Closed Won,33333,6/28/2016 18:20,Closed,6/28/2016,Pipeline,Stage 1 - Qualified Oppty,33333,6/30/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWj,Closed Won,45000,6/28/2016 18:17,Closed,6/28/2016,Pipeline,Stage 1 - Qualified Oppty,45000,6/30/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWm,Closed Won,75000,2/24/2016 16:14,Closed,2/24/2016,Pipeline,Stage 1 - Qualified Oppty,74949,2/27/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWg,Closed Won,7800,6/28/2016 18:16,Closed,6/28/2016,Pipeline,Stage 1 - Qualified Oppty,7800,6/30/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWf,Closed Won,41666.66667,3/18/2016 11:40,Closed,3/18/2016,Pipeline,Stage 0 - Qualified Lead,41666.66667,2/27/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TvHNC,Closed Won,13125,3/24/2016 12:10,Closed,3/24/2016,Pipeline,Stage 0 - Qualified Lead,13250,3/27/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlgx,Closed Won,90499,3/25/2016 18:33,Closed,3/25/2016,Pipeline,Stage 1 - Qualified Oppty,90500,3/30/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlhA,Closed Won,115000,6/28/2016 18:16,Closed,6/28/2016,Pipeline,Stage 1 - Qualified Oppty,115000,6/30/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlhD,Closed Won,120500,3/9/2016 21:23,Closed,3/9/2016,Pipeline,Stage 0 - Qualified Lead,120500,3/31/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlhF,Closed Won,275000,6/28/2016 18:14,Closed,6/28/2016,Pipeline,Stage 1 - Qualified Oppty,260000,6/29/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWi,Closed Won,120000,5/23/2016 14:22,Closed,5/15/2016,Pipeline,Stage 1 - Qualified Oppty,120000,5/15/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWj,Closed Won,80000,6/28/2016 18:14,Closed,6/28/2016,Pipeline,Stage 1 - Qualified Oppty,80000,6/29/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWm,Closed Won,102041,2/12/2016 20:35,Closed,1/31/2016,Pipeline,Stage 1 - Qualified Oppty,102041,1/31/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWg,Closed Won,11000,2/12/2016 20:35,Closed,2/1/2016,Pipeline,Stage 0 - Qualified Lead,11000,2/1/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWf,Closed Won,58000,2/24/2016 14:08,Closed,2/3/2015,Pipeline,Stage 1 - Qualified Oppty,58000,2/3/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TvHNC,Closed Won,12000,2/16/2016 13:24,Closed,2/16/2016,Pipeline,Stage 1 - Qualified Oppty,12000,2/18/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlgx,Closed Won,56667,4/20/2016 12:45,Closed,1/15/2015,Pipeline,Stage 1 - Qualified Oppty,85000,1/15/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlhA,Closed Won,61290,3/25/2016 18:38,Closed,3/25/2016,Pipeline,Stage 1 - Qualified Oppty,61290,3/31/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlhD,Closed Won,61000,5/23/2016 14:22,Closed,5/12/2016,Pipeline,Stage 1 - Qualified Oppty,61000,5/12/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlhF,Closed Won,47667,6/28/2016 18:17,Closed,6/28/2016,Pipeline,Stage 1 - Qualified Oppty,47667,7/1/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWi,Closed Won,250000,3/25/2016 18:38,Closed,3/25/2016,Pipeline,Stage 1 - Qualified Oppty,250000,3/31/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWj,Closed Won,24000,6/28/2016 18:18,Closed,6/28/2016,Pipeline,Stage 0 - Qualified Lead,24000,6/30/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWm,Closed Won,47000,4/20/2016 12:43,Closed,3/29/2016,Pipeline,Stage 1 - Qualified Oppty,117500,3/28/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWg,Closed Won,131818,6/28/2016 18:19,Closed,6/28/2016,Pipeline,Stage 1 - Qualified Oppty,131818,6/30/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlgx,Closed Won,21600,2/26/2016 13:00,Closed,1/19/2016,Pipeline,Stage 1 - Qualified Oppty,36000,1/19/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlhA,Closed Won,150000,6/28/2016 18:18,Closed,6/28/2016,Pipeline,Stage 0 - Qualified Lead,150000,6/30/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlhD,Closed Won,30978,6/20/2016 14:34,Closed,6/20/2016,Pipeline,Stage 1 - Qualified Oppty,30978,6/20/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlhF,Closed Won,47900,6/28/2016 18:18,Closed,6/28/2016,Pipeline,Stage 1 - Qualified Oppty,47900,7/1/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWi,Closed Won,40500,4/20/2016 12:45,Closed,1/15/2015,Pipeline,Stage 1 - Qualified Oppty,40500,1/14/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWj,Closed Won,79962,3/25/2016 18:38,Closed,3/25/2016,Pipeline,Stage 1 - Qualified Oppty,79962,3/31/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWm,Closed Won,80769,2/25/2016 14:52,Closed,2/27/2016,Pipeline,Stage 1 - Qualified Oppty,84000,2/27/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWg,Closed Won,90000,4/15/2016 21:13,Closed,4/15/2016,Pipeline,Stage 1 - Qualified Oppty,90000,3/2/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWf,Closed Won,680560,6/1/2016 16:41,Closed,5/31/2016,Pipeline,Stage 2 - Defined Oppty,576000,12/22/2015,G_ClosedWon-NotInForecast,six_months
+0061500000TvHNC,Closed Won,35350,2/17/2016 16:23,Closed,2/17/2016,Pipeline,Stage 2 - Defined Oppty,35000,2/29/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlgx,Closed Won,28000,1/27/2016 14:08,Closed,1/27/2016,Pipeline,Quote Prepared,28000,1/29/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlhA,Closed Won,2000,1/26/2016 13:54,Closed,1/26/2016,Pipeline,Quote Requested,2500,1/29/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlhD,Closed Won,21333,4/28/2016 14:01,Closed,4/28/2016,Pipeline,Stage 2 - Defined Oppty,53333,4/30/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlhF,Closed Won,13333,6/28/2016 18:13,Closed,6/28/2016,Pipeline,Stage 1 - Qualified Oppty,26667,6/26/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWi,Closed Won,186667,2/29/2016 17:43,Closed,2/28/2016,Pipeline,Stage 1 - Qualified Oppty,466620,2/28/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWj,Closed Won,48125,2/12/2016 20:30,Closed,1/11/2016,Pipeline,Stage 1 - Qualified Oppty,48125,1/11/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWm,Closed Won,52778,2/12/2016 20:36,Closed,2/2/2016,Pipeline,Stage 1 - Qualified Oppty,52778,2/2/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWg,Closed Won,37000,6/28/2016 18:11,Closed,6/28/2016,Pipeline,Stage 1 - Qualified Oppty,95000,6/24/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWf,Closed Won,42361,6/28/2016 18:18,Closed,6/28/2016,Pipeline,Stage 1 - Qualified Oppty,84851,7/1/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TvHNC,Closed Won,4876,6/28/2016 18:21,Closed,6/28/2016,Pipeline,Stage 0 - Qualified Lead,4876,6/30/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlgx,Closed Won,31500,3/31/2016 19:58,Closed,3/31/2016,Pipeline,Deal Identified,0,1/15/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlhA,Closed Won,13500,2/10/2016 18:41,Closed,2/10/2016,Pipeline,Quote Prepared,19999,1/29/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlhD,Closed Won,8625,1/12/2016 13:56,Closed,1/12/2016,Pipeline,SOW Accepted/PO Pending,8625,1/31/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlhF,Closed Won,15000,3/31/2016 21:58,Closed,3/31/2016,Pipeline,Stage 0 - Qualified Lead,25000,3/31/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWm,Closed Won,80200,2/1/2016 18:07,Closed,1/31/2016,Pipeline,Quote Prepared,80200,1/29/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWg,Closed Won,7000,1/26/2016 13:46,Closed,1/26/2016,Pipeline,Deal Identified,39998,1/29/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlgx,Closed Won,21000,4/22/2016 13:45,Closed,4/22/2016,Pipeline,Stage 2 - Defined Oppty,7200,3/31/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlhA,Closed Won,15000,2/23/2016 16:55,Closed,2/23/2016,Pipeline,Stage 0 - Qualified Lead,0,3/31/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlhD,Closed Won,2875,1/20/2016 18:07,Closed,1/20/2016,Pipeline,Quote Prepared,14999,1/31/2016,G_ClosedWon-NotInForecast,six_months
+0061500000TBlhF,Closed Won,5000,2/4/2016 21:03,Closed,2/4/2016,Pipeline,Quote Prepared,7000,1/29/2016,G_ClosedWon-NotInForecast,six_months
+0061500000SFdWi,Closed Won,8400,1/20/2016 19:21,Closed,1/20/2016,Pipeline,SOW Accepted/PO Pending,8400,1/7/2016,G_ClosedWon-NotInForecast,six_months
+0066000001mUWZZAA4,Closed Won,10125,2/1/2016 18:11,Closed,1/31/2016,Pipeline,Quote Prepared,10125,1/7/2016,G_ClosedWon-NotInForecast,six_months
+0066000001mUX6LAAW,Closed Won,30000,1/25/2016 14:17,Closed,1/25/2016,Pipeline,Deal Identified,19999,2/5/2016,G_ClosedWon-NotInForecast,six_months
+0066000001mUXx7AAG,Closed Won,4500,2/10/2016 19:41,Closed,2/10/2016,Pipeline,Deal Identified,4999,2/19/2016,G_ClosedWon-NotInForecast,six_months
+0066000000Nb2AlAAJ,Closed Won,113250,3/22/2016 16:53,Closed,3/22/2016,Forecast,Stage 4 - Commercial Agmt,90000,3/31/2016,G_ClosedWon-InForecast,six_months
+0066000000OTJ4jAAH,Closed Won,66000,2/11/2016 16:05,Closed,2/11/2016,Forecast,Stage 4 - Commercial Agmt,66000,2/22/2016,G_ClosedWon-InForecast,six_months
+0066000000OTJT5AAP,Closed Won,23800,2/23/2016 22:00,Closed,2/23/2016,BestCase,Stage 3 - Proof,23800,1/1/2016,G_ClosedWon-InForecast,six_months
+0066000000vwfghAAA,Closed Won,502000,3/22/2016 21:25,Closed,3/22/2016,Forecast,Stage 4 - Commercial Agmt,375000,2/26/2016,G_ClosedWon-InForecast,six_months
+0066000001f1kIwAAI,Closed Won,31000,4/1/2016 13:51,Closed,3/31/2016,Forecast,Stage 4 - Commercial Agmt,137500,2/29/2016,G_ClosedWon-InForecast,six_months
+0066000001f1uC8AAI,Closed Won,110000,2/1/2016 15:44,Closed,1/31/2016,BestCase,Stage 3 - Proof,110000,3/2/2016,G_ClosedWon-InForecast,six_months
+0066000001f1uFDAAY,Closed Won,200000,2/17/2016 16:16,Closed,2/17/2016,BestCase,Stage 3 - Proof,200000,2/13/2016,G_ClosedWon-InForecast,six_months
+0061500000SFdWi,Closed Won,11000,2/29/2016 17:05,Closed,2/29/2016,Forecast,Stage 4 - Commercial Agmt,12888,3/31/2016,G_ClosedWon-InForecast,six_months
+0061500000SFdWj,Closed Won,24300,2/24/2016 16:05,Closed,2/24/2016,BestCase,Stage 3 - Proof,24300,2/15/2016,G_ClosedWon-InForecast,six_months
+0061500000SFdWm,Closed Won,69000,2/29/2016 16:36,Closed,2/29/2016,Forecast,Stage 4 - Commercial Agmt,69000,3/31/2016,G_ClosedWon-InForecast,six_months
+0061500000SFdWg,Closed Won,130250,4/1/2016 8:19,Closed,3/31/2016,BestCase,Stage 3 - Proof,157000,3/31/2016,G_ClosedWon-InForecast,six_months
+0061500000SFdWf,Closed Won,56565,3/31/2016 17:29,Closed,3/31/2016,Forecast,Stage 4 - Commercial Agmt,56522,3/31/2016,G_ClosedWon-InForecast,six_months
+0061500000TvHNC,Closed Won,39130,4/2/2016 14:41,Closed,3/31/2016,Forecast,Stage 4 - Commercial Agmt,39130,3/31/2016,G_ClosedWon-InForecast,six_months
+0061500000TBlgx,Closed Won,70000,3/29/2016 14:07,Closed,3/29/2016,Forecast,Stage 6 - Awaiting Order,70000,3/31/2016,G_ClosedWon-InForecast,six_months
+0061500000TBlhA,Closed Won,118000,5/3/2016 22:18,Closed,4/1/2016,Forecast,Stage 4 - Commercial Agmt,100000,2/27/2016,G_ClosedWon-InForecast,six_months
+0061500000TBlhD,Closed Won,120000,3/28/2016 14:02,Closed,3/28/2016,BestCase,Stage 3 - Proof,120000,3/31/2016,G_ClosedWon-InForecast,six_months
+0061500000TBlhF,Closed Won,10500,3/31/2016 16:20,Closed,3/31/2016,Forecast,Stage 4 - Commercial Agmt,4000,6/30/2016,G_ClosedWon-InForecast,six_months
+0061500000SFdWi,Closed Won,50000,3/30/2016 17:50,Closed,3/30/2016,BestCase,Stage 3 - Proof,37500,3/31/2016,G_ClosedWon-InForecast,six_months
+0061500000SFdWj,Closed Won,18750,4/27/2016 14:49,Closed,4/27/2016,Forecast,Stage 4 - Commercial Agmt,17500,6/30/2016,G_ClosedWon-InForecast,six_months
+0061500000SFdWm,Closed Won,174000,3/31/2016 20:22,Closed,3/31/2016,BestCase,Stage 3 - Proof,50000,3/31/2016,G_ClosedWon-InForecast,six_months
+0061500000SFdWg,Closed Won,155000,4/20/2016 14:43,Closed,4/20/2016,Forecast,Stage 4 - Commercial Agmt,135000,2/19/2016,G_ClosedWon-InForecast,six_months
+0061500000SFdWf,Closed Won,60000,6/1/2016 13:54,Closed,5/31/2016,Forecast,Stage 4 - Commercial Agmt,60000,6/30/2016,G_ClosedWon-InForecast,six_months
+0061500000TvHNC,Closed Won,47250,3/25/2016 15:01,Closed,3/25/2016,BestCase,Stage 3 - Proof,52500,1/29/2016,G_ClosedWon-InForecast,six_months
+0061500000TBlgx,Closed Won,53000,3/28/2016 16:13,Closed,3/28/2016,BestCase,Stage 3 - Proof,68000,3/31/2016,G_ClosedWon-InForecast,six_months
+0061500000TBlhA,Closed Won,52000,6/30/2016 17:19,Closed,6/30/2016,BestCase,Stage 3 - Proof,35000,3/31/2016,G_ClosedWon-InForecast,six_months
+0061500000TBlhD,Closed Won,110000,6/20/2016 14:41,Closed,6/20/2016,Forecast,Stage 7 - Order Rcvd,110000,6/30/2016,G_ClosedWon-InForecast,six_months
+0061500000TBlhF,Closed Won,40000,3/25/2016 18:37,Closed,3/25/2016,Forecast,Stage 7 - Order Rcvd,40000,3/31/2016,G_ClosedWon-InForecast,six_months
+0061500000SFdWi,Closed Won,23750,5/23/2016 14:21,Closed,5/1/2016,Forecast,Stage 7 - Order Rcvd,47500,5/1/2016,G_ClosedWon-InForecast,six_months
+0061500000SFdWj,Closed Won,46666.65,3/25/2016 18:30,Closed,3/25/2016,Forecast,Stage 7 - Order Rcvd,46666.65,3/28/2016,G_ClosedWon-InForecast,six_months
+0061500000SFdWm,Closed Won,53333,3/25/2016 18:34,Closed,3/25/2016,Forecast,Stage 7 - Order Rcvd,53333,3/31/2016,G_ClosedWon-InForecast,six_months
+0061500000SFdWg,Closed Won,37500,3/15/2016 20:49,Closed,2/27/2016,Forecast,Stage 7 - Order Rcvd,37500,2/27/2016,G_ClosedWon-InForecast,six_months
+0061500000TBlgx,Closed Won,19565,6/20/2016 14:34,Closed,6/4/2016,Forecast,Stage 7 - Order Rcvd,19565,6/4/2016,G_ClosedWon-InForecast,six_months
+0061500000TBlhA,Closed Won,31250,6/20/2016 14:34,Closed,6/1/2016,Forecast,Stage 7 - Order Rcvd,62500,6/1/2016,G_ClosedWon-InForecast,six_months
+0061500000TBlhD,Closed Won,88333.33,2/12/2016 20:34,Closed,1/28/2016,Forecast,Stage 7 - Order Rcvd,88333.33,1/28/2016,G_ClosedWon-InForecast,six_months
+0061500000TBlhF,Closed Won,105833.33,3/15/2016 20:42,Closed,2/26/2016,Forecast,Stage 7 - Order Rcvd,105833.33,2/29/2016,G_ClosedWon-InForecast,six_months
+0061500000SFdWi,Closed Won,50000,5/23/2016 14:23,Closed,5/20/2016,Forecast,Stage 7 - Order Rcvd,50000,5/20/2016,G_ClosedWon-InForecast,six_months
+0061500000SFdWj,Closed Won,24000,2/12/2016 20:37,Closed,2/12/2016,Forecast,Stage 7 - Order Rcvd,24000,2/13/2016,G_ClosedWon-InForecast,six_months
+0061500000SFdWm,Closed Won,47321,4/28/2016 13:57,Closed,4/28/2016,Forecast,Stage 7 - Order Rcvd,100000,3/31/2016,G_ClosedWon-InForecast,six_months
+0061500000SFdWg,Closed Won,25000,2/26/2016 16:08,Closed,2/26/2016,BestCase,Stage 3 - Proof,25000,2/29/2016,G_ClosedWon-InForecast,six_months
+0061500000SFdWf,Closed Won,105000,2/1/2016 18:16,Closed,1/31/2016,BestCase,Stage 3 - Proof,93844,1/31/2016,G_ClosedWon-InForecast,six_months
+0061500000TvHNC,Closed Won,100000,3/31/2016 20:40,Closed,3/31/2016,BestCase,Stage 3 - Proof,150000,2/12/2016,G_ClosedWon-InForecast,six_months
+0061500000TBlgx,Closed Won,30000,1/21/2016 14:42,Closed,1/21/2016,Forecast,Stage 4 - Commercial Agmt,30000,1/31/2016,G_ClosedWon-InForecast,six_months
+0061500000TBlhA,Closed Won,10250,2/25/2016 1:44,Closed,2/23/2016,BestCase,Stage 3 - Proof,15000,1/31/2016,G_ClosedWon-InForecast,six_months
+0061500000TBlhD,Closed Won,3000,3/10/2016 15:41,Closed,3/10/2016,Forecast,Stage 7 - Order Rcvd,2750,1/31/2016,G_ClosedWon-InForecast,six_months
+0061500000TBlhF,Closed Won,12000,6/23/2016 19:22,Closed,6/23/2016,Forecast,Stage 7 - Order Rcvd,12000,1/31/2016,G_ClosedWon-InForecast,six_months
+0061500000SFdWi,Closed Won,8000,6/22/2016 15:58,Closed,6/22/2016,Forecast,Stage 7 - Order Rcvd,8000,1/31/2016,G_ClosedWon-InForecast,six_months
+0061500000SFdWj,Closed Won,0,1/21/2016 14:50,Closed,1/21/2016,Forecast,Stage 7 - Order Rcvd,0,12/29/2015,G_ClosedWon-InForecast,six_months
+0061500000SFdWm,Closed Won,46044,2/1/2016 16:00,Closed,1/31/2016,Forecast,Stage 4 - Commercial Agmt,39130,3/31/2016,G_ClosedWon-InForecast,six_months
+0061500000SFdWg,Closed Won,14500,3/31/2016 14:47,Closed,3/31/2016,Forecast,Stage 4 - Commercial Agmt,10000,3/31/2016,G_ClosedWon-InForecast,six_months
+0061500000SFdWf,Closed Won,162000,3/15/2016 16:45,Closed,3/8/2016,BestCase,Stage 3 - Proof,178000,2/21/2016,G_ClosedWon-InForecast,six_months
+0061500000TvHNC,Closed Won,65000,1/28/2016 13:39,Closed,1/28/2016,Forecast,Stage 5 - Purchasing,65000,1/15/2016,G_ClosedWon-InForecast,six_months
+0061500000TBlgx,Closed Won,110000,2/23/2016 17:14,Closed,2/23/2016,BestCase,Stage 3 - Proof,110000,2/29/2016,G_ClosedWon-InForecast,six_months
+0061500000TBlhA,Closed Won,55000,2/1/2016 17:38,Closed,1/31/2016,Forecast,Stage 5 - Purchasing,55000,1/30/2016,G_ClosedWon-InForecast,six_months
+0061500000TBlhD,Closed Won,42000,6/30/2016 18:13,Closed,6/30/2016,Forecast,Stage 4 - Commercial Agmt,40000,6/30/2016,G_ClosedWon-InForecast,six_months
+0061500000TBlhF,Stage 7 - Order Rcvd,13200,7/6/2016 14:22,Forecast,7/21/2016,Pipeline,Stage 1 - Qualified Oppty,12000,7/21/2016,H_EnteredForecast,six_months
+0061500000SFdWm,Stage 3 - Proof,100000,6/17/2016 17:11,BestCase,12/23/2016,Pipeline,Stage 2 - Defined Oppty,500000,9/30/2016,H_EnteredForecast,six_months
+0061500000SFdWg,Stage 3 - Proof,60000,6/7/2016 19:16,BestCase,9/30/2016,Pipeline,Stage 1 - Qualified Oppty,167000,3/29/2016,H_EnteredForecast,six_months
+0061500000TBlgx,Stage 7 - Order Rcvd,135000,3/1/2016 15:19,Forecast,8/1/2016,Pipeline,Stage 1 - Qualified Oppty,375000,10/14/2016,H_EnteredForecast,six_months
+0061500000TBlhA,Stage 3 - Proof,52500,6/30/2016 8:24,BestCase,7/30/2016,Pipeline,Stage 1 - Qualified Oppty,50685,8/7/2016,H_EnteredForecast,six_months
+0061500000TBlhD,Stage 4 - Commercial Agmt,32000,6/24/2016 8:35,Forecast,8/31/2016,Pipeline,Stage 2 - Defined Oppty,28000,3/30/2016,H_EnteredForecast,six_months
+0061500000TBlhF,Stage 4 - Commercial Agmt,50750,6/22/2016 13:06,Forecast,8/15/2016,Pipeline,Stage 2 - Defined Oppty,48750,4/30/2016,H_EnteredForecast,six_months
+0061500000SFdWi,Stage 3 - Proof,150000,4/17/2016 17:47,BestCase,11/30/2016,Pipeline,Stage 2 - Defined Oppty,12000,3/31/2016,H_EnteredForecast,six_months
+0066000001mUWZZAA4,Stage 3 - Proof,200000,6/13/2016 14:01,BestCase,7/27/2016,Pipeline,Stage 0 - Qualified Lead,0,12/30/2015,H_EnteredForecast,six_months
+0066000001mUX6LAAW,Stage 5 - Purchasing,41667,6/2/2016 14:56,Forecast,6/30/2016,Pipeline,Stage 1 - Qualified Oppty,43478,2/29/2016,H_EnteredForecast,six_months
+0066000001mUXx7AAG,Stage 3 - Proof,152500,5/10/2016 15:35,BestCase,9/2/2016,Pipeline,Stage 1 - Qualified Oppty,152500,5/30/2016,H_EnteredForecast,six_months
+0066000000Nb2AlAAJ,Stage 4 - Commercial Agmt,100000,6/30/2016 13:41,Forecast,7/25/2016,Pipeline,Stage 1 - Qualified Oppty,100000,7/25/2016,H_EnteredForecast,six_months
+0066000000OTJ4jAAH,Stage 3 - Proof,50000,6/1/2016 6:27,BestCase,12/30/2016,Pipeline,Stage 2 - Defined Oppty,50000,3/30/2016,H_EnteredForecast,six_months
+0066000000OTJT5AAP,Stage 3 - Proof,100000,5/27/2016 13:27,BestCase,7/29/2016,Pipeline,Stage 2 - Defined Oppty,35000,3/25/2016,H_EnteredForecast,six_months
+0066000000vwfghAAA,Stage 3 - Proof,50000,6/15/2016 23:38,BestCase,11/30/2016,Pipeline,Stage 1 - Qualified Oppty,50000,7/29/2016,H_EnteredForecast,six_months
+0066000001f1kIwAAI,Stage 4 - Commercial Agmt,183500,6/28/2016 20:26,Forecast,7/31/2016,Pipeline,Stage 1 - Qualified Oppty,0,3/31/2016,H_EnteredForecast,six_months
+0066000001f1uC8AAI,Stage 3 - Proof,37000,6/10/2016 7:11,BestCase,8/21/2016,Pipeline,Stage 0 - Qualified Lead,37000,8/21/2016,H_EnteredForecast,six_months
+0066000001f1uFDAAY,Stage 4 - Commercial Agmt,75000,6/10/2016 6:41,Forecast,9/30/2016,Pipeline,Stage 0 - Qualified Lead,75000,9/30/2016,H_EnteredForecast,six_months
+0061500000SFdWi,Stage 3 - Proof,50000,6/29/2016 14:20,BestCase,9/25/2016,Pipeline,Stage 1 - Qualified Oppty,50000,5/10/2016,H_EnteredForecast,six_months
+0061500000SFdWj,Stage 3 - Proof,20500,6/29/2016 16:43,BestCase,7/31/2016,Pipeline,Stage 1 - Qualified Oppty,25000,4/30/2016,H_EnteredForecast,six_months
+0061500000SFdWm,Stage 7 - Order Rcvd,40000,2/23/2016 20:41,Forecast,3/31/2017,Pipeline,Stage 1 - Qualified Oppty,40000,3/31/2017,H_EnteredForecast,six_months
+0061500000SFdWg,Stage 7 - Order Rcvd,29973,2/23/2016 20:40,Forecast,3/20/2017,Pipeline,Stage 1 - Qualified Oppty,30000,3/20/2017,H_EnteredForecast,six_months
+0061500000SFdWf,Stage 7 - Order Rcvd,53333,2/23/2016 20:40,Forecast,3/31/2017,Pipeline,Stage 1 - Qualified Oppty,53333,3/31/2017,H_EnteredForecast,six_months
+0061500000TvHNC,Stage 3 - Proof,60000,2/22/2016 2:33,BestCase,9/27/2016,Pipeline,Stage 0 - Qualified Lead,60000,9/27/2016,H_EnteredForecast,six_months
+0061500000TBlgx,Stage 3 - Proof,150000,3/15/2016 14:18,BestCase,11/25/2016,Pipeline,Stage 2 - Defined Oppty,30000,3/18/2016,H_EnteredForecast,six_months
+0061500000TBlhA,Stage 3 - Proof,125000,6/30/2016 16:57,BestCase,9/30/2016,Pipeline,Stage 1 - Qualified Oppty,200000,6/30/2016,H_EnteredForecast,six_months
+0061500000TBlhD,Stage 3 - Proof,75000,7/1/2016 14:42,BestCase,9/30/2016,Pipeline,Stage 2 - Defined Oppty,35000,2/23/2016,H_EnteredForecast,six_months
+0061500000TBlhF,Stage 3 - Proof,80000,3/2/2016 16:45,BestCase,12/31/2017,Pipeline,Stage 0 - Qualified Lead,80000,12/31/2017,H_EnteredForecast,six_months
+0061500000SFdWi,Stage 3 - Proof,54500,6/30/2016 16:34,BestCase,8/31/2016,Pipeline,Stage 2 - Defined Oppty,100000,3/31/2016,H_EnteredForecast,six_months
+0061500000SFdWj,Stage 3 - Proof,25000,3/15/2016 7:39,BestCase,10/31/2016,Pipeline,Stage 0 - Qualified Lead,0,3/31/2016,H_EnteredForecast,six_months
+0061500000SFdWm,Stage 3 - Proof,400000,6/25/2016 15:32,BestCase,9/30/2016,Pipeline,Stage 1 - Qualified Oppty,100000,3/31/2016,H_EnteredForecast,six_months
+0061500000SFdWg,Stage 4 - Commercial Agmt,28000,6/21/2016 12:41,Forecast,7/31/2016,Pipeline,Stage 1 - Qualified Oppty,28000,4/30/2016,H_EnteredForecast,six_months
+0061500000SFdWf,Stage 3 - Proof,200000,6/25/2016 15:22,BestCase,9/30/2016,Pipeline,Stage 0 - Qualified Lead,0,6/30/2016,H_EnteredForecast,six_months
+0061500000TvHNC,Stage 3 - Proof,25000,6/20/2016 14:48,BestCase,7/31/2016,Pipeline,Stage 1 - Qualified Oppty,25000,3/31/2016,H_EnteredForecast,six_months
+0061500000TBlgx,Stage 4 - Commercial Agmt,400000,7/5/2016 13:17,Forecast,8/31/2016,Pipeline,Stage 2 - Defined Oppty,440000,3/29/2016,H_EnteredForecast,six_months
+0061500000TBlhA,Stage 3 - Proof,10000,6/29/2016 16:44,BestCase,7/31/2016,Pipeline,Stage 0 - Qualified Lead,0,4/30/2016,H_EnteredForecast,six_months
+0061500000TBlhD,Stage 3 - Proof,35000,6/21/2016 21:41,BestCase,7/31/2016,Pipeline,Stage 0 - Qualified Lead,0,4/30/2016,H_EnteredForecast,six_months
+0061500000TBlhF,Stage 3 - Proof,50000,6/17/2016 17:07,BestCase,12/31/2016,Pipeline,Stage 0 - Qualified Lead,0,2/24/2016,H_EnteredForecast,six_months
+0061500000SFdWi,Stage 4 - Commercial Agmt,160000,7/5/2016 12:54,Forecast,7/18/2016,Pipeline,Stage 2 - Defined Oppty,200000,3/30/2016,H_EnteredForecast,six_months
+0061500000SFdWj,Stage 7 - Order Rcvd,86667,2/11/2016 20:33,Forecast,7/1/2016,Pipeline,Stage 1 - Qualified Oppty,86667,7/1/2016,H_EnteredForecast,six_months
+0061500000SFdWm,Stage 7 - Order Rcvd,53285,2/20/2016 22:44,Forecast,7/1/2016,Pipeline,Stage 1 - Qualified Oppty,53285,6/30/2016,H_EnteredForecast,six_months
+0061500000SFdWg,Stage 7 - Order Rcvd,64000,2/11/2016 20:31,Forecast,9/28/2016,Pipeline,Stage 0 - Qualified Lead,64000,9/28/2016,H_EnteredForecast,six_months
+0061500000TBlgx,Stage 7 - Order Rcvd,64000,2/24/2016 14:38,Forecast,9/28/2017,Pipeline,Stage 0 - Qualified Lead,64000,9/28/2017,H_EnteredForecast,six_months
+0061500000TBlhA,Stage 7 - Order Rcvd,74949,2/24/2016 16:35,Forecast,2/27/2017,Pipeline,Stage 1 - Qualified Oppty,74949,2/27/2017,H_EnteredForecast,six_months
+0061500000TBlhD,Stage 7 - Order Rcvd,84000,2/11/2016 20:50,Forecast,8/23/2016,Pipeline,Stage 1 - Qualified Oppty,84000,8/23/2016,H_EnteredForecast,six_months
+0061500000TBlhF,Stage 7 - Order Rcvd,41666.66667,2/24/2016 17:40,Forecast,2/27/2017,Pipeline,Stage 0 - Qualified Lead,41666.66667,2/27/2017,H_EnteredForecast,six_months
+0061500000SFdWi,Stage 7 - Order Rcvd,54000,2/11/2016 20:56,Forecast,9/29/2016,Pipeline,Stage 1 - Qualified Oppty,54000,9/29/2016,H_EnteredForecast,six_months
+0061500000SFdWj,Stage 7 - Order Rcvd,200000,2/11/2016 20:53,Forecast,9/29/2016,Pipeline,Stage 1 - Qualified Oppty,200000,9/29/2016,H_EnteredForecast,six_months
+0061500000SFdWm,Stage 7 - Order Rcvd,38333,2/11/2016 21:12,Forecast,9/30/2016,Pipeline,Stage 1 - Qualified Oppty,38333,9/30/2016,H_EnteredForecast,six_months
+0061500000SFdWg,Stage 7 - Order Rcvd,13250,2/24/2016 12:53,Forecast,3/27/2017,Pipeline,Stage 0 - Qualified Lead,13250,3/27/2017,H_EnteredForecast,six_months
+0061500000SFdWf,Stage 7 - Order Rcvd,19200,2/11/2016 21:04,Forecast,9/30/2016,Pipeline,Stage 1 - Qualified Oppty,19200,9/30/2016,H_EnteredForecast,six_months
+0061500000TvHNC,Stage 7 - Order Rcvd,46154,2/11/2016 21:01,Forecast,9/30/2016,Pipeline,Stage 1 - Qualified Oppty,46154,9/30/2016,H_EnteredForecast,six_months
+0061500000TBlgx,Stage 7 - Order Rcvd,90500,2/24/2016 13:05,Forecast,3/30/2017,Pipeline,Stage 0 - Qualified Lead,90500,3/30/2017,H_EnteredForecast,six_months
+0061500000TBlhA,Stage 7 - Order Rcvd,120500,2/23/2016 13:24,Forecast,3/31/2017,Pipeline,Stage 0 - Qualified Lead,120500,3/31/2017,H_EnteredForecast,six_months
+0061500000TBlhD,Stage 7 - Order Rcvd,125000,2/11/2016 21:10,Forecast,9/30/2016,Pipeline,Stage 1 - Qualified Oppty,125000,9/30/2016,H_EnteredForecast,six_months
+0061500000TBlhF,Stage 7 - Order Rcvd,120000,2/24/2016 14:33,Forecast,5/15/2017,Pipeline,Stage 1 - Qualified Oppty,120000,5/15/2017,H_EnteredForecast,six_months
+0061500000SFdWi,Stage 7 - Order Rcvd,13000,2/11/2016 20:58,Forecast,9/30/2016,Pipeline,Stage 1 - Qualified Oppty,13000,9/30/2016,H_EnteredForecast,six_months
+0061500000SFdWj,Stage 7 - Order Rcvd,80000,2/24/2016 14:37,Forecast,6/29/2017,Pipeline,Stage 1 - Qualified Oppty,80000,6/29/2017,H_EnteredForecast,six_months
+0061500000SFdWm,Stage 7 - Order Rcvd,64000,2/12/2016 13:52,Forecast,11/14/2016,Pipeline,Stage 1 - Qualified Oppty,64000,11/14/2016,H_EnteredForecast,six_months
+0061500000SFdWg,Stage 7 - Order Rcvd,36400,2/11/2016 21:50,Forecast,10/1/2016,Pipeline,Stage 1 - Qualified Oppty,36400,10/1/2016,H_EnteredForecast,six_months
+0061500000SFdWf,Stage 7 - Order Rcvd,72000,2/12/2016 14:00,Forecast,11/30/2016,Pipeline,Stage 1 - Qualified Oppty,72000,11/30/2016,H_EnteredForecast,six_months
+0061500000TvHNC,Stage 7 - Order Rcvd,105000,2/12/2016 13:55,Forecast,11/15/2016,Pipeline,Stage 1 - Qualified Oppty,105000,11/15/2016,H_EnteredForecast,six_months
+0061500000TBlgx,Stage 7 - Order Rcvd,72000,2/24/2016 14:01,Forecast,11/30/2017,Pipeline,Stage 1 - Qualified Oppty,70000,11/30/2017,H_EnteredForecast,six_months
+0061500000TBlhA,Stage 7 - Order Rcvd,84091,2/22/2016 14:17,Forecast,8/18/2016,Pipeline,Stage 0 - Qualified Lead,85253,8/18/2016,H_EnteredForecast,six_months
+0061500000TBlhD,Stage 7 - Order Rcvd,54667,2/12/2016 13:54,Forecast,11/15/2016,Pipeline,Stage 1 - Qualified Oppty,54667,11/15/2016,H_EnteredForecast,six_months
+0061500000TBlhF,Stage 7 - Order Rcvd,65190,2/22/2016 14:20,Forecast,8/18/2016,Pipeline,Stage 1 - Qualified Oppty,157759,8/18/2016,H_EnteredForecast,six_months
+0061500000SFdWm,Stage 7 - Order Rcvd,102041,2/24/2016 16:38,Forecast,1/31/2017,Pipeline,Stage 1 - Qualified Oppty,102041,1/31/2017,H_EnteredForecast,six_months
+0061500000SFdWg,Stage 7 - Order Rcvd,33333,2/22/2016 14:25,Forecast,11/29/2016,Pipeline,Stage 1 - Qualified Oppty,35000,11/29/2016,H_EnteredForecast,six_months
+0061500000TBlgx,Stage 7 - Order Rcvd,59250,2/12/2016 14:19,Forecast,12/19/2016,Pipeline,Stage 1 - Qualified Oppty,59250,12/19/2016,H_EnteredForecast,six_months
+0061500000TBlhA,Stage 7 - Order Rcvd,50000,2/12/2016 14:06,Forecast,11/30/2016,Pipeline,Stage 1 - Qualified Oppty,50000,11/30/2016,H_EnteredForecast,six_months
+0061500000TBlhD,Stage 7 - Order Rcvd,60300,2/11/2016 21:34,Forecast,12/23/2016,Pipeline,Stage 0 - Qualified Lead,60300,12/23/2016,H_EnteredForecast,six_months
+0061500000TBlhF,Stage 7 - Order Rcvd,50000,2/23/2016 13:22,Forecast,11/30/2017,Pipeline,Stage 1 - Qualified Oppty,50000,11/30/2017,H_EnteredForecast,six_months
+0061500000SFdWi,Stage 7 - Order Rcvd,58000,2/24/2016 14:04,Forecast,2/3/2017,Pipeline,Stage 1 - Qualified Oppty,58000,2/3/2017,H_EnteredForecast,six_months
+0066000001mUWZZAA4,Stage 7 - Order Rcvd,33333,2/12/2016 14:24,Forecast,12/30/2016,Pipeline,Stage 1 - Qualified Oppty,33333,12/30/2016,H_EnteredForecast,six_months
+0066000001mUX6LAAW,Stage 7 - Order Rcvd,33333,2/12/2016 14:27,Forecast,12/30/2016,Pipeline,Stage 1 - Qualified Oppty,33333,12/30/2016,H_EnteredForecast,six_months
+0066000001mUXx7AAG,Stage 7 - Order Rcvd,9857,2/22/2016 14:29,Forecast,12/30/2016,Pipeline,Stage 0 - Qualified Lead,9718,12/30/2016,H_EnteredForecast,six_months
+0066000000Nb2AlAAJ,Stage 7 - Order Rcvd,99000,2/22/2016 14:26,Forecast,12/15/2016,Pipeline,Stage 1 - Qualified Oppty,95000,12/15/2016,H_EnteredForecast,six_months
+0066000000OTJ4jAAH,Stage 7 - Order Rcvd,99000,2/24/2016 17:40,Forecast,12/15/2017,Pipeline,Stage 1 - Qualified Oppty,95000,12/15/2017,H_EnteredForecast,six_months
+0066000000OTJT5AAP,Stage 7 - Order Rcvd,56667,6/20/2016 14:36,Forecast,12/29/2016,Pipeline,Stage 1 - Qualified Oppty,85000,1/15/2017,H_EnteredForecast,six_months
+0066000000vwfghAAA,Stage 7 - Order Rcvd,45450,2/12/2016 14:16,Forecast,12/16/2016,Pipeline,Stage 1 - Qualified Oppty,45450,12/16/2016,H_EnteredForecast,six_months
+0066000001f1kIwAAI,Stage 7 - Order Rcvd,20000,2/22/2016 14:25,Forecast,12/30/2016,Pipeline,Stage 1 - Qualified Oppty,19830,12/30/2016,H_EnteredForecast,six_months
+0066000001f1uC8AAI,Stage 7 - Order Rcvd,45450,2/23/2016 12:53,Forecast,12/16/2017,Pipeline,Stage 1 - Qualified Oppty,45450,12/16/2017,H_EnteredForecast,six_months
+0066000001f1uFDAAY,Stage 7 - Order Rcvd,102041,2/24/2016 16:37,Forecast,1/31/2018,Pipeline,Stage 1 - Qualified Oppty,102041,1/31/2018,H_EnteredForecast,six_months
+0061500000SFdWi,Stage 7 - Order Rcvd,180000,2/22/2016 14:41,Forecast,12/31/2016,Pipeline,Stage 1 - Qualified Oppty,300000,12/31/2016,H_EnteredForecast,six_months
+0061500000SFdWj,Stage 7 - Order Rcvd,48000,2/22/2016 14:40,Forecast,12/31/2016,Pipeline,Stage 1 - Qualified Oppty,80000,12/31/2016,H_EnteredForecast,six_months
+0061500000SFdWm,Stage 7 - Order Rcvd,58000,2/24/2016 14:04,Forecast,2/3/2018,Pipeline,Stage 1 - Qualified Oppty,58000,2/3/2018,H_EnteredForecast,six_months
+0061500000SFdWg,Stage 7 - Order Rcvd,55000,2/22/2016 14:27,Forecast,12/31/2016,Pipeline,Stage 1 - Qualified Oppty,50333,12/31/2016,H_EnteredForecast,six_months
+0061500000SFdWf,Stage 7 - Order Rcvd,57143,2/25/2016 20:17,Forecast,12/29/2016,Pipeline,Stage 1 - Qualified Oppty,57143,12/29/2016,H_EnteredForecast,six_months
+0061500000TvHNC,Stage 7 - Order Rcvd,30000,2/12/2016 14:35,Forecast,12/31/2016,Pipeline,Stage 1 - Qualified Oppty,30000,12/31/2016,H_EnteredForecast,six_months
+0061500000TBlgx,Stage 7 - Order Rcvd,80000,2/12/2016 14:33,Forecast,12/31/2016,Pipeline,Stage 1 - Qualified Oppty,80000,12/31/2016,H_EnteredForecast,six_months
+0061500000TBlhA,Stage 7 - Order Rcvd,47000,4/20/2016 12:43,Forecast,3/29/2017,Pipeline,Stage 1 - Qualified Oppty,117500,3/28/2017,H_EnteredForecast,six_months
+0061500000TBlhD,Stage 7 - Order Rcvd,132000,2/22/2016 14:38,Forecast,9/30/2016,Pipeline,Stage 1 - Qualified Oppty,219123,9/30/2016,H_EnteredForecast,six_months
+0061500000TBlhF,Stage 7 - Order Rcvd,21600,2/26/2016 13:10,Forecast,1/19/2018,Pipeline,Stage 1 - Qualified Oppty,36000,1/19/2018,H_EnteredForecast,six_months
+0061500000SFdWi,Stage 7 - Order Rcvd,21600,2/26/2016 13:09,Forecast,1/19/2017,Pipeline,Stage 1 - Qualified Oppty,36000,1/19/2017,H_EnteredForecast,six_months
+0061500000SFdWj,Stage 7 - Order Rcvd,12692,2/29/2016 15:55,Forecast,7/14/2018,Pipeline,Stage 1 - Qualified Oppty,20952,7/14/2018,H_EnteredForecast,six_months
+0061500000SFdWm,Stage 7 - Order Rcvd,131818,2/24/2016 16:16,Forecast,6/30/2017,Pipeline,Stage 1 - Qualified Oppty,131818,6/30/2017,H_EnteredForecast,six_months
+0061500000SFdWg,Stage 7 - Order Rcvd,98500,2/12/2016 14:21,Forecast,12/28/2016,Pipeline,Stage 1 - Qualified Oppty,98500,12/28/2016,H_EnteredForecast,six_months
+0061500000SFdWf,Stage 7 - Order Rcvd,131818,2/24/2016 16:16,Forecast,6/30/2018,Pipeline,Stage 1 - Qualified Oppty,131818,6/30/2018,H_EnteredForecast,six_months
+0061500000TvHNC,Stage 7 - Order Rcvd,12692,2/29/2016 15:54,Forecast,7/14/2017,Pipeline,Stage 1 - Qualified Oppty,20952,7/14/2017,H_EnteredForecast,six_months
+0061500000TBlgx,Stage 7 - Order Rcvd,12692,2/22/2016 14:40,Forecast,7/14/2016,Pipeline,Stage 1 - Qualified Oppty,20952,7/14/2016,H_EnteredForecast,six_months
+0061500000TBlhA,Stage 7 - Order Rcvd,98500,2/24/2016 14:41,Forecast,12/28/2017,Pipeline,Stage 1 - Qualified Oppty,98500,12/28/2017,H_EnteredForecast,six_months
+0061500000TBlhD,Stage 7 - Order Rcvd,40000,2/11/2016 20:41,Forecast,7/31/2016,Pipeline,Stage 1 - Qualified Oppty,40000,7/31/2016,H_EnteredForecast,six_months
+0061500000TBlhF,Stage 7 - Order Rcvd,40000,2/24/2016 13:15,Forecast,7/31/2017,Pipeline,Stage 1 - Qualified Oppty,40000,7/31/2017,H_EnteredForecast,six_months
+0061500000SFdWi,Stage 7 - Order Rcvd,100000,2/11/2016 21:06,Forecast,9/30/2016,Pipeline,Stage 1 - Qualified Oppty,100000,9/30/2016,H_EnteredForecast,six_months
+0061500000SFdWj,Stage 7 - Order Rcvd,40000,2/24/2016 13:15,Forecast,7/31/2018,Pipeline,Stage 1 - Qualified Oppty,40000,7/31/2018,H_EnteredForecast,six_months
+0061500000SFdWm,Stage 7 - Order Rcvd,95594,2/11/2016 20:15,Forecast,7/31/2016,Pipeline,Stage 0 - Qualified Lead,95594,7/31/2016,H_EnteredForecast,six_months
+0061500000SFdWg,Stage 7 - Order Rcvd,36522,2/12/2016 14:03,Forecast,11/30/2016,Pipeline,Stage 1 - Qualified Oppty,36522,11/30/2016,H_EnteredForecast,six_months
+0061500000TBlgx,Stage 7 - Order Rcvd,250000,2/11/2016 20:30,Forecast,9/1/2016,Pipeline,Stage 0 - Qualified Lead,250000,9/1/2016,H_EnteredForecast,six_months
+0061500000TBlhA,Stage 7 - Order Rcvd,272466,2/12/2016 15:00,Forecast,12/31/2016,Pipeline,Stage 1 - Qualified Oppty,272466,12/31/2016,H_EnteredForecast,six_months
+0061500000TBlhD,Stage 7 - Order Rcvd,23500,2/11/2016 21:44,Forecast,12/31/2016,Pipeline,Stage 0 - Qualified Lead,23500,12/31/2016,H_EnteredForecast,six_months
+0061500000TBlhF,Stage 7 - Order Rcvd,90000,2/24/2016 18:28,Forecast,11/30/2016,Pipeline,Stage 1 - Qualified Oppty,90000,12/31/2016,H_EnteredForecast,six_months
+0061500000SFdWi,Stage 7 - Order Rcvd,89002,2/11/2016 21:17,Forecast,9/30/2016,Pipeline,Stage 1 - Qualified Oppty,89002,9/30/2016,H_EnteredForecast,six_months
+0061500000SFdWj,Stage 7 - Order Rcvd,34375,2/18/2016 17:13,Forecast,12/29/2016,Pipeline,Stage 0 - Qualified Lead,68750,12/29/2016,H_EnteredForecast,six_months
+0061500000SFdWm,Stage 7 - Order Rcvd,10000,2/12/2016 15:13,Forecast,10/31/2016,Pipeline,Stage 1 - Qualified Oppty,10000,10/31/2016,H_EnteredForecast,six_months
+0061500000SFdWg,Stage 7 - Order Rcvd,10000,2/24/2016 18:22,Forecast,10/31/2017,Pipeline,Stage 1 - Qualified Oppty,10000,10/31/2017,H_EnteredForecast,six_months
+0061500000SFdWf,Stage 7 - Order Rcvd,83333,2/12/2016 14:08,Forecast,11/30/2016,Pipeline,Stage 1 - Qualified Oppty,83333,11/30/2016,H_EnteredForecast,six_months
+0061500000TvHNC,Stage 7 - Order Rcvd,11354,2/12/2016 15:03,Forecast,12/31/2016,Pipeline,Stage 1 - Qualified Oppty,11354,12/31/2016,H_EnteredForecast,six_months
+0061500000TBlgx,Stage 7 - Order Rcvd,112000,2/12/2016 14:57,Forecast,12/31/2016,Pipeline,Stage 1 - Qualified Oppty,112000,12/31/2016,H_EnteredForecast,six_months
+0061500000TBlhA,Stage 7 - Order Rcvd,57400,2/12/2016 14:39,Forecast,12/31/2016,Pipeline,Stage 1 - Qualified Oppty,57400,12/31/2016,H_EnteredForecast,six_months
+0061500000TBlhD,Stage 7 - Order Rcvd,79962,2/25/2016 13:21,Forecast,3/31/2017,Pipeline,Stage 1 - Qualified Oppty,79962,3/31/2017,H_EnteredForecast,six_months
+0061500000TBlhF,Stage 7 - Order Rcvd,79962,2/25/2016 13:21,Forecast,3/31/2018,Pipeline,Stage 1 - Qualified Oppty,79962,3/31/2018,H_EnteredForecast,six_months
+0061500000SFdWi,Stage 7 - Order Rcvd,11000,2/24/2016 14:31,Forecast,2/1/2018,Pipeline,Stage 0 - Qualified Lead,11000,2/1/2018,H_EnteredForecast,six_months
+0061500000SFdWj,Stage 7 - Order Rcvd,11000,2/24/2016 14:20,Forecast,2/1/2017,Pipeline,Stage 0 - Qualified Lead,11000,2/1/2017,H_EnteredForecast,six_months
+0061500000SFdWm,Stage 7 - Order Rcvd,19000,2/24/2016 14:31,Forecast,2/1/2017,Pipeline,Stage 1 - Qualified Oppty,19000,2/1/2017,H_EnteredForecast,six_months
+0061500000SFdWg,Stage 7 - Order Rcvd,19000,2/24/2016 14:31,Forecast,2/1/2018,Pipeline,Stage 1 - Qualified Oppty,19000,2/1/2018,H_EnteredForecast,six_months
+0061500000SFdWf,Stage 7 - Order Rcvd,2667,2/22/2016 14:41,Forecast,10/31/2016,Pipeline,Stage 1 - Qualified Oppty,6667,10/31/2016,H_EnteredForecast,six_months
+0061500000TvHNC,Stage 7 - Order Rcvd,4230.33,2/11/2016 21:42,Forecast,12/30/2016,Pipeline,Stage 0 - Qualified Lead,4230.33,12/30/2016,H_EnteredForecast,six_months
+0061500000TBlgx,Stage 7 - Order Rcvd,52778,2/23/2016 13:26,Forecast,2/2/2017,Pipeline,Stage 1 - Qualified Oppty,52778,2/2/2017,H_EnteredForecast,six_months
+0061500000TBlhA,Stage 7 - Order Rcvd,45000,2/26/2016 20:55,Forecast,7/31/2016,Pipeline,Stage 1 - Qualified Oppty,75000,7/31/2016,H_EnteredForecast,six_months
+0061500000TBlhD,Stage 7 - Order Rcvd,167708,2/11/2016 21:16,Forecast,9/30/2016,Pipeline,Stage 1 - Qualified Oppty,167708,9/30/2016,H_EnteredForecast,six_months
+0061500000TBlhF,Stage 7 - Order Rcvd,50000,2/18/2016 17:23,Forecast,12/31/2016,Pipeline,Stage 1 - Qualified Oppty,100000,12/31/2016,H_EnteredForecast,six_months
+0061500000SFdWm,Stage 7 - Order Rcvd,464200,4/15/2016 18:27,Forecast,12/31/2016,Pipeline,Stage 1 - Qualified Oppty,464200,12/31/2016,H_EnteredForecast,six_months
+0061500000SFdWg,Stage 7 - Order Rcvd,12000,2/10/2016 15:51,Forecast,12/30/2016,Pipeline,Stage 1 - Qualified Oppty,12000,12/30/2016,H_EnteredForecast,six_months
+0061500000TBlgx,Stage 7 - Order Rcvd,12000,2/24/2016 19:00,Forecast,12/30/2017,Pipeline,Stage 1 - Qualified Oppty,12000,12/30/2017,H_EnteredForecast,six_months
+0061500000TBlhA,Stage 7 - Order Rcvd,7971,2/10/2016 15:51,Forecast,12/21/2016,Pipeline,Stage 1 - Qualified Oppty,7971,12/21/2016,H_EnteredForecast,six_months
+0061500000TBlhD,Stage 7 - Order Rcvd,25000,2/11/2016 21:18,Forecast,11/30/2016,Pipeline,Stage 0 - Qualified Lead,25000,11/30/2016,H_EnteredForecast,six_months
+0061500000TBlhF,Stage 7 - Order Rcvd,25000,2/25/2016 13:00,Forecast,11/30/2017,Pipeline,Stage 0 - Qualified Lead,25000,11/30/2017,H_EnteredForecast,six_months
+0061500000SFdWi,Stage 3 - Proof,22000,5/3/2016 13:22,BestCase,3/31/2016,Pipeline,Stage 1 - Qualified Oppty,22000,2/1/2016,H_EnteredForecast,six_months
+0066000001mUWZZAA4,Stage 3 - Proof,300000,3/2/2016 16:45,BestCase,12/31/2017,Pipeline,Stage 1 - Qualified Oppty,300000,12/31/2017,H_EnteredForecast,six_months
+0066000001mUX6LAAW,Stage 1 - Qualified Oppty,-13750,6/2/2016 17:29,Pipeline,12/31/2016,Forecast,Stage 5 - Purchasing,-14348,1/31/2016,F_LeftForecast,six_months
+0066000001mUXx7AAG,Stage 2 - Defined Oppty,-60000,6/2/2016 15:04,Pipeline,3/31/2017,BestCase,Stage 3 - Proof,-60000,6/30/2016,F_LeftForecast,six_months
+0066000000Nb2AlAAJ,Stage 2 - Defined Oppty,-25000,6/29/2016 16:50,Pipeline,9/30/2016,BestCase,Stage 3 - Proof,-25000,3/31/2016,F_LeftForecast,six_months
+0066000000OTJ4jAAH,Stage 1 - Qualified Oppty,-25000,6/28/2016 17:51,Pipeline,3/31/2017,BestCase,Stage 3 - Proof,-25000,6/30/2016,F_LeftForecast,six_months
+0066000000OTJT5AAP,Stage 1 - Qualified Oppty,-50000,3/30/2016 6:59,Pipeline,2/28/2017,BestCase,Stage 3 - Proof,-50000,6/30/2016,F_LeftForecast,six_months
+0066000000vwfghAAA,Stage 2 - Defined Oppty,-60000,6/29/2016 1:20,Pipeline,3/31/2017,BestCase,Stage 3 - Proof,-60000,6/30/2016,F_LeftForecast,six_months
+0066000001f1kIwAAI,Stage 0 - Qualified Lead,-50000,6/30/2016 12:56,Pipeline,3/31/2017,BestCase,Stage 3 - Proof,-50000,6/30/2016,F_LeftForecast,six_months
+0066000001f1uC8AAI,Stage 2 - Defined Oppty,-130000,3/22/2016 8:25,Pipeline,12/31/2016,Forecast,Stage 4 - Commercial Agmt,-130000,3/31/2016,F_LeftForecast,six_months
+0066000001f1uFDAAY,Stage 1 - Qualified Oppty,-99000,3/21/2016 17:38,Pipeline,9/23/2016,BestCase,Stage 3 - Proof,-99000,12/31/2015,F_LeftForecast,six_months
+0061500000SFdWi,Qualified Out,-35000,7/5/2016 14:53,Omitted,7/5/2016,BestCase,Stage 3 - Proof,35000,3/31/2016,D_ClosedOther,six_months
+0061500000SFdWj,Qualified Out,-25000,4/11/2016 21:22,Omitted,6/30/2016,BestCase,Stage 3 - Proof,25000,6/30/2016,D_ClosedOther,six_months
+0061500000SFdWm,Qualified Out,-30000,3/23/2016 12:37,Omitted,6/30/2016,Forecast,Stage 4 - Commercial Agmt,30000,3/31/2016,D_ClosedOther,six_months
+0061500000SFdWg,Qualified Out,-20000,2/17/2016 11:20,Omitted,2/17/2016,BestCase,Stage 3 - Proof,20000,6/30/2016,D_ClosedOther,six_months
+0061500000SFdWf,Qualified Out,0,2/26/2016 12:11,Omitted,7/29/2016,BestCase,Stage 3 - Proof,0,7/29/2016,D_ClosedOther,six_months
+0061500000TvHNC,Qualified Out,-14800,6/29/2016 2:30,Omitted,6/28/2016,Forecast,Stage 4 - Commercial Agmt,14800,3/31/2016,D_ClosedOther,six_months
+0061500000TBlgx,Qualified Out,-42500,5/19/2016 15:37,Omitted,5/19/2016,BestCase,Stage 3 - Proof,42500,3/31/2016,D_ClosedOther,six_months
+0061500000TBlhA,Closed Lost,-80000,2/11/2016 20:14,Omitted,1/13/2016,BestCase,Stage 3 - Proof,80000,5/13/2016,C_Lost,six_months
+0061500000TBlhD,Closed Lost,-300000,1/29/2016 8:45,Omitted,1/22/2016,BestCase,Stage 3 - Proof,300000,4/30/2016,C_Lost,six_months
+0061500000TBlhF,Closed Lost,-50000,3/15/2016 7:38,Omitted,3/15/2016,BestCase,Stage 3 - Proof,50000,6/30/2016,C_Lost,six_months
+0061500000SFdWi,Closed Lost,-35000,3/21/2016 7:57,Omitted,3/21/2016,Forecast,Stage 4 - Commercial Agmt,35000,6/30/2016,C_Lost,six_months
+0061500000SFdWj,Closed Lost,-51000,1/29/2016 10:58,Omitted,1/29/2016,BestCase,Stage 3 - Proof,51000,2/29/2016,C_Lost,six_months
+0061500000SFdWm,Closed Lost,-25000,2/4/2016 17:35,Omitted,2/4/2016,BestCase,Stage 3 - Proof,25000,6/30/2016,C_Lost,six_months
+0061500000SFdWg,Closed Lost,-35000,6/29/2016 22:21,Omitted,6/29/2016,BestCase,Stage 3 - Proof,35000,3/31/2016,C_Lost,six_months
+0061500000SFdWf,Closed Lost,-50000,3/20/2016 23:55,Omitted,3/20/2016,Forecast,Stage 4 - Commercial Agmt,50000,1/29/2016,C_Lost,six_months
+0061500000TvHNC,Closed Lost,-40000,2/2/2016 14:02,Omitted,2/2/2016,BestCase,Stage 3 - Proof,40000,6/30/2016,C_Lost,six_months
+0061500000TBlgx,Closed Lost,-25000,6/29/2016 15:29,Omitted,6/29/2016,BestCase,Stage 3 - Proof,25000,2/12/2016,C_Lost,six_months
+0061500000TBlhA,Closed Lost,-25000,2/12/2016 7:01,Omitted,2/12/2016,BestCase,Stage 3 - Proof,25000,1/29/2016,C_Lost,six_months
+0061500000TBlhD,Closed Lost,-10000,2/10/2016 15:34,Omitted,2/10/2016,BestCase,Stage 3 - Proof,10000,6/30/2016,C_Lost,six_months
+0061500000TBlhF,Closed Lost,-35000,5/23/2016 8:59,Omitted,6/30/2016,Forecast,Stage 4 - Commercial Agmt,35000,3/31/2016,C_Lost,six_months
+0061500000SFdWi,Closed Lost,0,1/27/2016 12:28,Omitted,1/27/2016,BestCase,Stage 3 - Proof,0,4/29/2016,C_Lost,six_months
+0061500000SFdWj,Closed Lost,-25000,1/27/2016 16:06,Omitted,1/27/2016,BestCase,Stage 3 - Proof,25000,4/30/2016,C_Lost,six_months
+0061500000SFdWm,Closed Lost,-125000,2/26/2016 7:44,Omitted,2/26/2016,BestCase,Stage 3 - Proof,125000,3/31/2016,C_Lost,six_months
+0061500000SFdWg,Closed Lost,-90000,3/18/2016 17:50,Omitted,3/18/2016,BestCase,Stage 3 - Proof,90000,2/29/2016,C_Lost,six_months
+0061500000TBlgx,Closed Lost,-45000,2/17/2016 18:23,Omitted,2/17/2016,BestCase,Stage 3 - Proof,45000,4/29/2016,C_Lost,six_months
+0061500000TBlhA,Closed Lost,-60500,1/26/2016 17:43,Omitted,1/26/2016,Forecast,Stage 4 - Commercial Agmt,60500,4/29/2016,C_Lost,six_months
+0061500000TBlhD,Closed Lost,-128000,3/18/2016 14:52,Omitted,3/18/2016,BestCase,Stage 3 - Proof,128000,3/31/2016,C_Lost,six_months
+0061500000TBlhF,Closed Lost,-25000,5/27/2016 18:35,Omitted,5/27/2016,BestCase,Stage 3 - Proof,25000,3/31/2016,C_Lost,six_months
+0061500000SFdWi,Closed Lost,-25000,3/17/2016 9:32,Omitted,3/17/2016,BestCase,Stage 3 - Proof,25000,3/30/2016,C_Lost,six_months
+0061500000SFdWj,Closed Lost,-6300,3/11/2016 14:28,Omitted,3/11/2016,Forecast,Stage 6 - Awaiting Order,6300,6/30/2016,C_Lost,six_months
+0061500000SFdWm,Closed Lost,-42500,6/25/2016 15:30,Omitted,6/25/2016,BestCase,Stage 3 - Proof,42500,2/29/2016,C_Lost,six_months
+0061500000SFdWg,Closed Lost,-35000,2/24/2016 19:53,Omitted,2/24/2016,BestCase,Stage 3 - Proof,35000,3/31/2016,C_Lost,six_months
+0061500000SFdWf,Closed Lost,-35000,2/11/2016 19:15,Omitted,2/10/2016,BestCase,Stage 3 - Proof,35000,1/29/2016,C_Lost,six_months
+0061500000TvHNC,Closed Lost,-75000,2/23/2016 15:20,Omitted,2/23/2016,BestCase,Stage 3 - Proof,75000,2/29/2016,C_Lost,six_months
+0061500000TBlgx,Closed Lost,-175000,3/1/2016 17:10,Omitted,3/1/2016,BestCase,Stage 3 - Proof,175000,3/18/2016,C_Lost,six_months
+0061500000TBlhA,Stage 7 - Order Rcvd,12029,5/17/2016 17:39,Forecast,3/1/2017,Forecast,Stage 7 - Order Rcvd,9500,3/1/2017,B_Expanded_Amount,six_months
+0061500000TBlhD,Stage 4 - Commercial Agmt,68000,6/24/2016 8:03,Forecast,9/24/2016,BestCase,Stage 3 - Proof,150000,6/30/2016,B_Expanded_Amount,six_months
+0061500000TBlhF,Stage 4 - Commercial Agmt,1000,5/13/2016 12:01,Forecast,11/16/2016,BestCase,Stage 3 - Proof,224000,2/22/2016,B_Expanded_Amount,six_months
+0061500000SFdWi,Stage 3 - Proof,12500,6/30/2016 16:46,BestCase,8/31/2016,BestCase,Stage 3 - Proof,42500,3/31/2016,B_Expanded_Amount,six_months
+0061500000SFdWj,Stage 3 - Proof,57500,7/1/2016 19:17,BestCase,12/31/2016,BestCase,Stage 3 - Proof,110500,3/31/2016,B_Expanded_Amount,six_months
+0061500000SFdWm,Stage 3 - Proof,-125000,6/23/2016 16:53,BestCase,8/17/2016,BestCase,Stage 3 - Proof,225000,3/30/2016,B_Reduced_Amount,six_months
+0061500000SFdWg,Stage 3 - Proof,-85000,6/6/2016 7:03,BestCase,9/30/2016,BestCase,Stage 3 - Proof,135000,6/30/2016,B_Reduced_Amount,six_months
+0061500000SFdWf,Stage 3 - Proof,-225000,6/13/2016 17:37,BestCase,10/31/2016,BestCase,Stage 3 - Proof,300000,6/30/2016,B_Reduced_Amount,six_months
+0061500000TvHNC,Stage 3 - Proof,-175000,6/1/2016 6:15,BestCase,12/30/2016,BestCase,Stage 3 - Proof,225000,6/30/2016,B_Reduced_Amount,six_months
+0061500000TBlgx,Stage 4 - Commercial Agmt,-17500,1/14/2016 19:50,Forecast,9/30/2016,Forecast,Stage 4 - Commercial Agmt,45500,9/30/2016,B_Reduced_Amount,six_months
+0061500000TBlhA,Stage 4 - Commercial Agmt,-9220,6/24/2016 8:27,Forecast,8/31/2016,BestCase,Stage 3 - Proof,42500,6/30/2016,B_Reduced_Amount,six_months
+0061500000TBlhD,Stage 4 - Commercial Agmt,-10000,6/24/2016 8:18,Forecast,9/30/2016,BestCase,Stage 3 - Proof,50000,4/30/2016,B_Reduced_Amount,six_months
+0061500000TBlhF,Stage 7 - Order Rcvd,-52679,2/25/2016 13:29,Forecast,3/31/2017,Forecast,Stage 7 - Order Rcvd,100000,3/31/2017,B_Reduced_Amount,six_months
+0061500000SFdWm,Stage 3 - Proof,-75000,4/18/2016 13:15,BestCase,9/30/2016,BestCase,Stage 3 - Proof,75000,3/31/2016,B_Reduced_Amount,six_months
+0061500000SFdWg,Stage 3 - Proof,-267000,7/1/2016 6:58,BestCase,9/30/2016,BestCase,Stage 3 - Proof,300000,6/30/2016,B_Reduced_Amount,six_months
+0061500000TBlgx,Stage 3 - Proof,-10680,6/1/2016 7:19,BestCase,7/15/2016,Forecast,Stage 4 - Commercial Agmt,15000,3/31/2016,B_Reduced_Amount,six_months
+,10% of opportunities constitutes 40% of open pipeline amount,10306943.62,7/8/2016 20:00,StartPipe,7/9/2016,,,,7/9/2016,,six_months
+,10% of opportunities constitutes 39% of open pipeline amount,13930760.31,7/8/2016 20:00,EndPipe,7/9/2016,,,,7/9/2016,,six_months

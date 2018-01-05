@@ -1,0 +1,78 @@
+{
+"fileFormat": {
+"charsetName": "UTF-8",
+"fieldsDelimitedBy": ",",
+"numberOfLinesToIgnore": 0
+},
+"objects": [
+{
+"connector": "AcmeCSVConnector",
+"description": "",
+"fullyQualifiedName": "cars",
+"label": "cars",
+"name": "cars",
+        "fields":[  
+        {
+             "description": "",
+              "fullyQualifiedName": "cars.ID",
+              "label": "ID",
+              "name": "ID",
+              "isSystemField": false,
+              "isUniqueId": true,
+              "isMultiValue": false,
+              "type": "Text"
+        } ,
+        {
+             "description": "",
+              "fullyQualifiedName": "cars.year",
+              "label": "year",
+              "name": "year",
+              "isSystemField": false,
+              "isUniqueId": false,
+              "isMultiValue": false,
+              "type": "Text"
+        } ,
+        {
+             "description": "",
+              "fullyQualifiedName": "cars.make",
+              "label": "make",
+              "name": "make",
+              "isSystemField": false,
+              "isUniqueId": false,
+              "isMultiValue": false,
+              "type": "Text"
+        } ,
+        {
+             "description": "",
+              "fullyQualifiedName": "cars.model",
+              "label": "model",
+              "name": "model",
+              "isSystemField": false,
+              "isUniqueId": false,
+              "isMultiValue": false,
+              "type": "Text"
+        } ,
+        {
+             "description": "",
+              "fullyQualifiedName": "cars.comment",
+              "label": "comment",
+              "name": "comment",
+              "isSystemField": false,
+              "isUniqueId": false,
+              "isMultiValue": false,
+              "type": "Text"
+        } ,
+        {
+             "description": "",
+              "fullyQualifiedName": "cars.blank",
+              "label": "blank",
+              "name": "blank",
+              "isSystemField": false,
+              "isUniqueId": false,
+              "isMultiValue": false,
+              "type": "Text"
+        } 
+        ]
+    }
+    ]
+}

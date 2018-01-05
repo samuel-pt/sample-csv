@@ -1,0 +1,21 @@
+OpportunityId,ActivityCount,LatestActivityEmotionDetails,LatestActivityEmotion,ActivityCountDetails
+0061500000SFdWi,3,Latest Task activity has a positive sentiment.,positive,1 Qualify: 3 Tasks
+0061500000SFdWj,1,Latest Task activity has a positive sentiment.,positive,1 Qualify: 1 Tasks
+0061500000SFdWm,1,Latest Task activity has a neutral sentiment.,neutral,1 Qualify: 1 Tasks
+0061500000SFdWg,3,Latest Task activity has a positive sentiment.,positive,1 Qualify: 3 Tasks
+0061500000SFdWf,1,NA,NA,1 Qualify: 1 Tasks
+0061500000TvHNC,1,Latest Task activity has a neutral sentiment.,neutral,1 Qualify: 1 Tasks
+0061500000TBlgx,1,NA,NA,1 Qualify: 1 Tasks
+0061500000TBlhA,1,Latest Task activity has a neutral sentiment.,neutral,1 Qualify: 1 Tasks
+0061500000TBlhD,1,Latest Task activity has a positive sentiment.,positive,1 Qualify: 1 Tasks
+0061500000TBlhF,3,Latest Task activity has a positive sentiment.,positive,1 Qualify: 2 Tasks | 2 Propose: 1 Tasks
+0061500000SFdWi,12,NA,NA,"1 Qualify: 1 Calls, 1 Qualify: 4 Tasks | 2 Propose: 2 Tasks | 3 Review: 5 Tasks"
+0061500000SFdWj,7,Latest Task activity has a positive sentiment.,positive,"2 Propose: 2 Calls, 2 Propose: 5 Tasks"
+0061500000SFdWm,1,Latest Task activity has a neutral sentiment.,neutral,1 Qualify: 1 Tasks
+0061500000SFdWg,1,Latest Task activity has a positive sentiment.,positive,1 Qualify: 1 Tasks
+0061500000SFdWf,1,Latest Task activity has a neutral sentiment.,neutral,1 Qualify: 1 Tasks
+0061500000TvHNC,1,Latest Task activity has a neutral sentiment.,neutral,1 Qualify: 1 Tasks
+0061500000TBlgx,1,Latest Task activity has a negative sentiment.,negative,1 Qualify: 1 Tasks
+0061500000TBlhA,1,Latest Task activity has a neutral sentiment.,neutral,1 Qualify: 1 Tasks
+0061500000TBlhD,1,Latest Task activity has a neutral sentiment.,neutral,1 Qualify: 1 Tasks
+0061500000TBlhD,1,Latest Task activity has a neutral sentiment.,neutral,1 Qualify: 1 Tasks

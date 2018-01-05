@@ -1,0 +1,32 @@
+Opportunity__c,Previous_Forecast_Category__c,Previous_Stage__c,Previous_Amount__c,Previous_Close_Date__c,Ending_Bucket__c,Is_Test_Record__c,View_Type__c,Snapshot_Date_Type__c
+006B0000002ndnpIAA,Pipeline,Stage 2 - Defined Oppty,37750,6/24/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,this_month
+006B0000002wMt7IAE,Pipeline,Stage 0 - Qualified Lead,16957,6/29/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,this_month
+006B0000002n0iDIAQ,Pipeline,Deal Identified,17250,7/1/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,this_month
+006B0000002n0iEIAQ,Pipeline,Deal Identified,6300,7/1/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,this_month
+006B0000002n0iFIAQ,BestCase,Stage 3 - Proof,104275.8,6/30/2016,G_ClosedWon-InForecast,TRUE,Pipeline,this_month
+006B0000002n0iGIAQ,Forecast,Stage 5 - Purchasing,81000,6/28/2016,G_ClosedWon-InForecast,TRUE,Pipeline,this_month
+006B0000002n0iHIAQ,Forecast,Stage 4 - Commercial Agmt,38229,6/30/2016,G_ClosedWon-InForecast,TRUE,Pipeline,this_month
+006B0000002n0iIIAQ,Forecast,Stage 7 - Order Rcvd,45000,6/30/2016,G_ClosedWon-InForecast,TRUE,Pipeline,this_month
+006B0000002n0iJIAQ,Forecast,Stage 4 - Commercial Agmt,45000,6/30/2016,G_ClosedWon-InForecast,TRUE,Pipeline,this_month
+006B0000002n0iKIAQ,Forecast,Stage 4 - Commercial Agmt,57000,6/30/2016,G_ClosedWon-InForecast,TRUE,Pipeline,this_month
+006B0000002n0iLIAQ,Forecast,Stage 4 - Commercial Agmt,25000,6/30/2016,G_ClosedWon-InForecast,TRUE,Pipeline,this_month
+006B0000002n0iMIAQ,Forecast,Stage 4 - Commercial Agmt,10000,6/30/2016,G_ClosedWon-InForecast,TRUE,Pipeline,this_month
+006B0000002n0iNIAQ,Forecast,Stage 7 - Order Rcvd,-35000,6/30/2016,G_ClosedWon-InForecast,TRUE,Pipeline,this_month
+006B0000002n0iOIAQ,Forecast,Stage 7 - Order Rcvd,15000,6/30/2016,G_ClosedWon-InForecast,TRUE,Pipeline,this_month
+006B0000002n0iPIAQ,Pipeline,Stage 2 - Defined Oppty,75000,8/31/2016,H_EnteredForecast,TRUE,Pipeline,this_month
+006B0000002n0iQIAQ,Pipeline,Stage 1 - Qualified Oppty,10000,12/15/2016,H_EnteredForecast,TRUE,Pipeline,this_month
+006B0000002n0iRIAQ,Pipeline,Stage 2 - Defined Oppty,100000,9/22/2016,H_EnteredForecast,TRUE,Pipeline,this_month
+006B0000002n0iSIAQ,BestCase,Stage 3 - Proof,20500,6/28/2016,C_Lost,TRUE,Pipeline,this_month
+006B0000002ndnkIAA,Forecast,Stage 4 - Commercial Agmt,150000,7/18/2016,B_Expanded_Amount,TRUE,Pipeline,this_month
+006B00000038tf5IAA,Forecast,Stage 4 - Commercial Agmt,45000,8/31/2016,B_Expanded_Amount,TRUE,Pipeline,this_month
+006B0000002n0iCIAQ,Forecast,Stage 5 - Purchasing,35000,7/15/2016,B_Expanded_Amount,TRUE,Pipeline,this_month
+006B0000002ne39IAA,BestCase,Stage 3 - Proof,30000,9/26/2016,B_Expanded_Amount,TRUE,Pipeline,this_month
+006B0000002n0i9IAA,BestCase,Stage 3 - Proof,122000,9/30/2016,B_Reduced_Amount,TRUE,Pipeline,this_month
+006B0000002n0iAIAQ,Forecast,Stage 7 - Order Rcvd,20000,6/5/2018,B_Reduced_Amount,TRUE,Pipeline,this_month
+,,,,7/9/2016,,TRUE,Pipeline,this_month
+,,,,7/9/2016,,TRUE,Pipeline,this_month
+006B0000002n0iBIAQ,Pipeline,Stage 2 - Defined Oppty,37750,6/24/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,this_quarter
+006B0000002nBrQIAU,Pipeline,Stage 0 - Qualified Lead,16957,6/29/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,this_quarter
+006B0000002ndnuIAA,Pipeline,Deal Identified,17250,7/1/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,this_quarter
+006B00000039F8TIAU,Pipeline,Deal Identified,6300,7/1/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,this_quarter
+006B00000039F8iIAE,BestCase,Stage 3 - Proof,104275.8,6/30/2016,G_ClosedWon-InForecast,TRUE,Pipeline,this_quarter

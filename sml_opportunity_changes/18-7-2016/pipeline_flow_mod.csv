@@ -1,0 +1,483 @@
+Opportunity__c,Previous_Forecast_Category__c,Previous_Stage__c,Previous_Amount__c,Previous_Close_Date__c,Ending_Bucket__c,Is_Test_Record__c,View_Type__c,Snapshot_Date_Type__c
+0061500000SFdWi,Pipeline,Stage 2 - Defined Oppty,37750,6/24/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,this_month
+0061500000SFdWj,Pipeline,Stage 0 - Qualified Lead,16957,6/29/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,this_month
+0061500000SFdWm,Pipeline,Deal Identified,17250,7/1/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,this_month
+0061500000SFdWg,Pipeline,Deal Identified,6300,7/1/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,this_month
+0061500000SFdWf,BestCase,Stage 3 - Proof,104275.8,6/30/2016,G_ClosedWon-InForecast,TRUE,Pipeline,this_month
+0061500000TvHNC,Forecast,Stage 5 - Purchasing,81000,6/28/2016,G_ClosedWon-InForecast,TRUE,Pipeline,this_month
+0061500000TBlgx,Forecast,Stage 4 - Commercial Agmt,38229,6/30/2016,G_ClosedWon-InForecast,TRUE,Pipeline,this_month
+0061500000TBlhA,Forecast,Stage 7 - Order Rcvd,45000,6/30/2016,G_ClosedWon-InForecast,TRUE,Pipeline,this_month
+0061500000TBlhD,Forecast,Stage 4 - Commercial Agmt,45000,6/30/2016,G_ClosedWon-InForecast,TRUE,Pipeline,this_month
+0061500000TBlhF,Forecast,Stage 4 - Commercial Agmt,57000,6/30/2016,G_ClosedWon-InForecast,TRUE,Pipeline,this_month
+0061500000SFdWi,Forecast,Stage 4 - Commercial Agmt,25000,6/30/2016,G_ClosedWon-InForecast,TRUE,Pipeline,this_month
+0061500000SFdWj,Forecast,Stage 4 - Commercial Agmt,10000,6/30/2016,G_ClosedWon-InForecast,TRUE,Pipeline,this_month
+0061500000SFdWm,Forecast,Stage 7 - Order Rcvd,-35000,6/30/2016,G_ClosedWon-InForecast,TRUE,Pipeline,this_month
+0061500000SFdWg,Forecast,Stage 7 - Order Rcvd,15000,6/30/2016,G_ClosedWon-InForecast,TRUE,Pipeline,this_month
+0061500000SFdWf,Pipeline,Stage 2 - Defined Oppty,75000,8/31/2016,H_EnteredForecast,TRUE,Pipeline,this_month
+0061500000TvHNC,Pipeline,Stage 1 - Qualified Oppty,10000,12/15/2016,H_EnteredForecast,TRUE,Pipeline,this_month
+0061500000TBlgx,Pipeline,Stage 2 - Defined Oppty,100000,9/22/2016,H_EnteredForecast,TRUE,Pipeline,this_month
+0061500000TBlhA,BestCase,Stage 3 - Proof,20500,6/28/2016,C_Lost,TRUE,Pipeline,this_month
+0061500000TBlhD,Forecast,Stage 4 - Commercial Agmt,150000,7/18/2016,B_Expanded_Amount,TRUE,Pipeline,this_month
+0061500000TBlhF,Forecast,Stage 4 - Commercial Agmt,45000,8/31/2016,B_Expanded_Amount,TRUE,Pipeline,this_month
+0061500000SFdWi,Forecast,Stage 5 - Purchasing,35000,7/15/2016,B_Expanded_Amount,TRUE,Pipeline,this_month
+0061500000SFdWj,BestCase,Stage 3 - Proof,30000,9/26/2016,B_Expanded_Amount,TRUE,Pipeline,this_month
+0061500000SFdWm,BestCase,Stage 3 - Proof,122000,9/30/2016,B_Reduced_Amount,TRUE,Pipeline,this_month
+0061500000SFdWg,Forecast,Stage 7 - Order Rcvd,20000,6/5/2018,B_Reduced_Amount,TRUE,Pipeline,this_month
+,,,,7/9/2016,,TRUE,Pipeline,this_month
+,,,,7/9/2016,,TRUE,Pipeline,this_month
+0061500000TBlgx,Pipeline,Stage 2 - Defined Oppty,37750,6/24/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,this_quarter
+0061500000TBlhA,Pipeline,Stage 0 - Qualified Lead,16957,6/29/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,this_quarter
+0061500000TBlhD,Pipeline,Deal Identified,17250,7/1/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,this_quarter
+0061500000TBlhF,Pipeline,Deal Identified,6300,7/1/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,this_quarter
+0061500000SFdWi,BestCase,Stage 3 - Proof,104275.8,6/30/2016,G_ClosedWon-InForecast,TRUE,Pipeline,this_quarter
+0061500000SFdWj,Forecast,Stage 5 - Purchasing,81000,6/28/2016,G_ClosedWon-InForecast,TRUE,Pipeline,this_quarter
+0061500000SFdWm,Forecast,Stage 4 - Commercial Agmt,38229,6/30/2016,G_ClosedWon-InForecast,TRUE,Pipeline,this_quarter
+0061500000SFdWg,Forecast,Stage 7 - Order Rcvd,45000,6/30/2016,G_ClosedWon-InForecast,TRUE,Pipeline,this_quarter
+0061500000SFdWf,Forecast,Stage 4 - Commercial Agmt,45000,6/30/2016,G_ClosedWon-InForecast,TRUE,Pipeline,this_quarter
+0061500000TvHNC,Forecast,Stage 4 - Commercial Agmt,57000,6/30/2016,G_ClosedWon-InForecast,TRUE,Pipeline,this_quarter
+0061500000TBlgx,Forecast,Stage 4 - Commercial Agmt,25000,6/30/2016,G_ClosedWon-InForecast,TRUE,Pipeline,this_quarter
+0061500000TBlhA,Forecast,Stage 4 - Commercial Agmt,10000,6/30/2016,G_ClosedWon-InForecast,TRUE,Pipeline,this_quarter
+0061500000TBlhD,Forecast,Stage 7 - Order Rcvd,-35000,6/30/2016,G_ClosedWon-InForecast,TRUE,Pipeline,this_quarter
+0061500000TBlhF,Forecast,Stage 7 - Order Rcvd,15000,6/30/2016,G_ClosedWon-InForecast,TRUE,Pipeline,this_quarter
+0061500000SFdWi,Pipeline,Stage 2 - Defined Oppty,75000,8/31/2016,H_EnteredForecast,TRUE,Pipeline,this_quarter
+0061500000SFdWj,Pipeline,Stage 1 - Qualified Oppty,10000,12/15/2016,H_EnteredForecast,TRUE,Pipeline,this_quarter
+0061500000SFdWm,Pipeline,Stage 2 - Defined Oppty,100000,9/22/2016,H_EnteredForecast,TRUE,Pipeline,this_quarter
+0061500000SFdWg,BestCase,Stage 3 - Proof,20500,6/28/2016,C_Lost,TRUE,Pipeline,this_quarter
+0061500000SFdWf,Forecast,Stage 4 - Commercial Agmt,150000,7/18/2016,B_Expanded_Amount,TRUE,Pipeline,this_quarter
+0061500000TvHNC,Forecast,Stage 4 - Commercial Agmt,45000,8/31/2016,B_Expanded_Amount,TRUE,Pipeline,this_quarter
+0061500000TBlgx,Forecast,Stage 5 - Purchasing,35000,7/15/2016,B_Expanded_Amount,TRUE,Pipeline,this_quarter
+0061500000TBlhA,BestCase,Stage 3 - Proof,30000,9/26/2016,B_Expanded_Amount,TRUE,Pipeline,this_quarter
+0061500000TBlhD,BestCase,Stage 3 - Proof,122000,9/30/2016,B_Reduced_Amount,TRUE,Pipeline,this_quarter
+0061500000TBlhF,Forecast,Stage 7 - Order Rcvd,20000,6/5/2018,B_Reduced_Amount,TRUE,Pipeline,this_quarter
+,,,,7/9/2016,,TRUE,Pipeline,this_quarter
+,,,,7/9/2016,,TRUE,Pipeline,this_quarter
+0061500000SFdWm,Pipeline,Stage 1 - Qualified Oppty,19000,2/1/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWg,Pipeline,Stage 1 - Qualified Oppty,95200,1/5/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlgx,Pipeline,Stage 1 - Qualified Oppty,30000,6/30/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlhA,Pipeline,Prospecting,27500,4/14/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlhD,Pipeline,Stage 1 - Qualified Oppty,73820,6/30/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlhF,Pipeline,Stage 1 - Qualified Oppty,50000,3/30/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWi,Pipeline,Stage 2 - Defined Oppty,121667,3/30/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWi,Pipeline,Stage 2 - Defined Oppty,25000,3/30/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWj,Pipeline,Stage 1 - Qualified Oppty,457324,6/30/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWm,Pipeline,Stage 1 - Qualified Oppty,350000,5/2/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWg,Pipeline,Stage 1 - Qualified Oppty,29307,5/15/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWf,Pipeline,Stage 1 - Qualified Oppty,100000,5/30/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TvHNC,Pipeline,Stage 1 - Qualified Oppty,100000,6/30/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlgx,Pipeline,Stage 1 - Qualified Oppty,106250,7/1/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlhA,Pipeline,Stage 1 - Qualified Oppty,60000,6/28/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlhD,Pipeline,Stage 1 - Qualified Oppty,36375,6/30/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlhF,Pipeline,Stage 1 - Qualified Oppty,126782,6/28/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWi,Pipeline,Stage 1 - Qualified Oppty,41703,8/25/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWj,Pipeline,Stage 1 - Qualified Oppty,85144.33,6/5/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWm,Pipeline,Stage 1 - Qualified Oppty,36000,3/16/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWg,Pipeline,Stage 0 - Qualified Lead,35000,6/30/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWf,Pipeline,Stage 1 - Qualified Oppty,144500,3/30/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TvHNC,Pipeline,Stage 0 - Qualified Lead,150000,4/10/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlgx,Pipeline,Stage 0 - Qualified Lead,82000,3/30/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlhA,Pipeline,Stage 0 - Qualified Lead,5000,2/16/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlhD,Pipeline,Stage 1 - Qualified Oppty,10000,3/3/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlhF,Pipeline,Stage 1 - Qualified Oppty,0,2/13/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWi,Pipeline,Stage 2 - Defined Oppty,20000,3/2/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWj,Pipeline,Stage 1 - Qualified Oppty,211200,4/1/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWm,Pipeline,Stage 0 - Qualified Lead,83333,5/31/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWg,Pipeline,Stage 2 - Defined Oppty,8550,3/31/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlgx,Pipeline,Stage 0 - Qualified Lead,55750,3/27/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlhA,Pipeline,Stage 0 - Qualified Lead,21000,4/6/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlhD,Pipeline,Stage 0 - Qualified Lead,15000,4/1/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlhF,Pipeline,Stage 2 - Defined Oppty,35900,4/5/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWi,Pipeline,Stage 0 - Qualified Lead,33000,3/14/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWj,Pipeline,Stage 0 - Qualified Lead,45000,4/17/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWm,Pipeline,Quote Prepared,55500,2/12/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWg,Pipeline,Stage 0 - Qualified Lead,51000,4/19/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWf,Pipeline,Stage 1 - Qualified Oppty,45000,5/16/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TvHNC,Pipeline,Stage 0 - Qualified Lead,10000,5/17/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlgx,Pipeline,Stage 0 - Qualified Lead,325000,4/7/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlhA,Pipeline,Stage 0 - Qualified Lead,86250,4/30/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlhD,Pipeline,Stage 0 - Qualified Lead,13043,6/10/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlhF,Pipeline,Stage 1 - Qualified Oppty,15000,6/20/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWi,Pipeline,Stage 1 - Qualified Oppty,9000,5/31/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWj,Pipeline,Stage 0 - Qualified Lead,20869,6/9/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWm,Pipeline,Stage 0 - Qualified Lead,15217,6/13/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWg,Pipeline,Quote Prepared,14999,1/29/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWf,Pipeline,Stage 0 - Qualified Lead,116667,6/10/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TvHNC,Pipeline,Stage 1 - Qualified Oppty,150638,6/30/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlgx,Pipeline,Stage 0 - Qualified Lead,5000,6/30/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlhA,Pipeline,Stage 0 - Qualified Lead,60870,6/30/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlhD,Pipeline,Stage 0 - Qualified Lead,57333.33,6/29/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlhF,Pipeline,Stage 0 - Qualified Lead,40000,6/30/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWm,Pipeline,Stage 1 - Qualified Oppty,17520,6/30/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWg,Pipeline,Stage 1 - Qualified Oppty,250000,5/28/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlgx,Pipeline,Stage 0 - Qualified Lead,35000,6/15/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlhA,Pipeline,Stage 0 - Qualified Lead,16957,7/5/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlhD,Pipeline,Stage 0 - Qualified Lead,150000,6/30/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlhF,Pipeline,Stage 0 - Qualified Lead,72000,6/25/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWi,Pipeline,Stage 0 - Qualified Lead,67500,6/30/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWi,Pipeline,Deal Identified,14999,4/29/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWj,Pipeline,Stage 0 - Qualified Lead,5000,6/30/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWm,Pipeline,Stage 1 - Qualified Oppty,105000,6/15/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWg,Pipeline,Stage 0 - Qualified Lead,25000,7/12/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWf,Pipeline,Stage 0 - Qualified Lead,50000,6/30/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TvHNC,Pipeline,Stage 0 - Qualified Lead,21600,7/31/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlgx,Pipeline,Stage 2 - Defined Oppty,35000,3/31/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlhA,Pipeline,Stage 0 - Qualified Lead,100000,7/30/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlhD,Pipeline,Stage 2 - Defined Oppty,35000,2/20/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlhF,Pipeline,Deal Identified,19999,1/29/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWi,Pipeline,Stage 1 - Qualified Oppty,30000,3/20/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWj,Pipeline,Deal Identified,5000,2/12/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWm,Pipeline,Stage 1 - Qualified Oppty,24167,6/7/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWg,Pipeline,Quote Prepared,14999,12/31/2015,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWf,Pipeline,Deal Identified,19998,12/31/2015,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TvHNC,Pipeline,Quote Prepared,28000,1/29/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlgx,Pipeline,Quote Prepared,21000,1/15/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlhA,Pipeline,SOW Accepted/PO Pending,15300,1/22/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlhD,Pipeline,Quote Prepared,7000,1/8/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlhF,Pipeline,Deal Identified,39997,1/31/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWi,Pipeline,Quote Prepared,48500,2/5/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWj,Pipeline,Quote Prepared,21000,1/29/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWm,Pipeline,Stage 2 - Defined Oppty,5000,2/15/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWg,Pipeline,Quote Prepared,39997,12/31/2015,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlgx,Pipeline,Stage 0 - Qualified Lead,17391,3/31/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlhA,Pipeline,Quote Prepared,19998,1/31/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlhD,Pipeline,Stage 2 - Defined Oppty,100000,4/29/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlhF,Pipeline,Deal Identified,19999,1/15/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWi,Pipeline,Quote Prepared,7000,2/19/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWj,Pipeline,Deal Identified,19998,12/31/2015,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWm,Pipeline,Stage 2 - Defined Oppty,0,12/18/2015,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWg,Pipeline,Quote Prepared,14999,1/29/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWf,Pipeline,Quote Prepared,14999,1/15/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TvHNC,Pipeline,Quote Prepared,14999,1/15/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlgx,Pipeline,Stage 1 - Qualified Oppty,41667,1/31/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlhA,Pipeline,Deal Identified,10000,1/31/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlhD,Pipeline,Stage 1 - Qualified Oppty,68000,2/20/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlhF,Pipeline,Stage 1 - Qualified Oppty,26000,4/3/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWi,Pipeline,Stage 0 - Qualified Lead,55940,2/20/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWj,Pipeline,Stage 1 - Qualified Oppty,65110,2/27/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWm,Pipeline,Stage 1 - Qualified Oppty,75000,4/23/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWg,Pipeline,Stage 1 - Qualified Oppty,1960,4/23/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWf,Pipeline,Stage 1 - Qualified Oppty,60000,3/30/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TvHNC,Pipeline,Stage 1 - Qualified Oppty,92500,2/28/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlgx,Pipeline,Stage 1 - Qualified Oppty,65000,5/30/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlhA,Pipeline,Stage 1 - Qualified Oppty,328194,3/1/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlhD,Pipeline,Stage 1 - Qualified Oppty,136666,3/31/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlhF,Pipeline,Stage 1 - Qualified Oppty,32000,5/30/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWm,Pipeline,Stage 1 - Qualified Oppty,103500,3/30/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWg,Pipeline,Stage 1 - Qualified Oppty,28334,3/30/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlgx,Pipeline,Stage 1 - Qualified Oppty,100000,6/25/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlhA,Pipeline,Stage 1 - Qualified Oppty,26000,3/30/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlhD,Pipeline,Stage 1 - Qualified Oppty,50000,3/31/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlhF,Pipeline,Stage 1 - Qualified Oppty,50000,6/29/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWi,Pipeline,Stage 1 - Qualified Oppty,62333,6/30/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWi,Pipeline,Stage 1 - Qualified Oppty,33333,6/30/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWj,Pipeline,Stage 1 - Qualified Oppty,45000,6/30/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWm,Pipeline,Stage 1 - Qualified Oppty,74949,2/27/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWg,Pipeline,Stage 1 - Qualified Oppty,7800,6/30/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWf,Pipeline,Stage 0 - Qualified Lead,41666.66667,2/27/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TvHNC,Pipeline,Stage 0 - Qualified Lead,13250,3/27/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlgx,Pipeline,Stage 1 - Qualified Oppty,90500,3/30/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlhA,Pipeline,Stage 1 - Qualified Oppty,115000,6/30/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlhD,Pipeline,Stage 0 - Qualified Lead,120500,3/31/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlhF,Pipeline,Stage 1 - Qualified Oppty,260000,6/29/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWi,Pipeline,Stage 1 - Qualified Oppty,120000,5/15/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWj,Pipeline,Stage 1 - Qualified Oppty,80000,6/29/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWm,Pipeline,Stage 1 - Qualified Oppty,102041,1/31/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWg,Pipeline,Stage 0 - Qualified Lead,11000,2/1/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWf,Pipeline,Stage 1 - Qualified Oppty,58000,2/3/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TvHNC,Pipeline,Stage 1 - Qualified Oppty,12000,2/18/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlgx,Pipeline,Stage 1 - Qualified Oppty,85000,1/15/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlhA,Pipeline,Stage 1 - Qualified Oppty,61290,3/31/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlhD,Pipeline,Stage 1 - Qualified Oppty,61000,5/12/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlhF,Pipeline,Stage 1 - Qualified Oppty,47667,7/1/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWi,Pipeline,Stage 1 - Qualified Oppty,250000,3/31/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWj,Pipeline,Stage 0 - Qualified Lead,24000,6/30/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWm,Pipeline,Stage 1 - Qualified Oppty,117500,3/28/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWg,Pipeline,Stage 1 - Qualified Oppty,131818,6/30/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlgx,Pipeline,Stage 1 - Qualified Oppty,36000,1/19/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlhA,Pipeline,Stage 0 - Qualified Lead,150000,6/30/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlhD,Pipeline,Stage 1 - Qualified Oppty,30978,6/20/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlhF,Pipeline,Stage 1 - Qualified Oppty,47900,7/1/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWi,Pipeline,Stage 1 - Qualified Oppty,40500,1/14/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWj,Pipeline,Stage 1 - Qualified Oppty,79962,3/31/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWm,Pipeline,Stage 1 - Qualified Oppty,84000,2/27/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWg,Pipeline,Stage 1 - Qualified Oppty,90000,3/2/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWf,Pipeline,Stage 2 - Defined Oppty,576000,12/22/2015,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TvHNC,Pipeline,Stage 2 - Defined Oppty,35000,2/29/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlgx,Pipeline,Quote Prepared,28000,1/29/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlhA,Pipeline,Quote Requested,2500,1/29/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlhD,Pipeline,Stage 2 - Defined Oppty,53333,4/30/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlhF,Pipeline,Stage 1 - Qualified Oppty,26667,6/26/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWi,Pipeline,Stage 1 - Qualified Oppty,466620,2/28/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWj,Pipeline,Stage 1 - Qualified Oppty,48125,1/11/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWm,Pipeline,Stage 1 - Qualified Oppty,52778,2/2/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWg,Pipeline,Stage 1 - Qualified Oppty,95000,6/24/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWf,Pipeline,Stage 1 - Qualified Oppty,84851,7/1/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TvHNC,Pipeline,Stage 0 - Qualified Lead,4876,6/30/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlgx,Pipeline,Deal Identified,0,1/15/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlhA,Pipeline,Quote Prepared,19999,1/29/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlhD,Pipeline,SOW Accepted/PO Pending,8625,1/31/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlhF,Pipeline,Stage 0 - Qualified Lead,25000,3/31/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWm,Pipeline,Quote Prepared,80200,1/29/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWg,Pipeline,Deal Identified,39998,1/29/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlgx,Pipeline,Stage 2 - Defined Oppty,7200,3/31/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlhA,Pipeline,Stage 0 - Qualified Lead,0,3/31/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlhD,Pipeline,Quote Prepared,14999,1/31/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000TBlhF,Pipeline,Quote Prepared,7000,1/29/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0061500000SFdWi,Pipeline,SOW Accepted/PO Pending,8400,1/7/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0066000001mUWZZAA4,Pipeline,Quote Prepared,10125,1/7/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0066000001mUX6LAAW,Pipeline,Deal Identified,19999,2/5/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0066000001mUXx7AAG,Pipeline,Deal Identified,4999,2/19/2016,G_ClosedWon-NotInForecast,TRUE,Pipeline,six_months
+0066000000Nb2AlAAJ,Forecast,Stage 4 - Commercial Agmt,90000,3/31/2016,G_ClosedWon-InForecast,TRUE,Pipeline,six_months
+0066000000OTJ4jAAH,Forecast,Stage 4 - Commercial Agmt,66000,2/22/2016,G_ClosedWon-InForecast,TRUE,Pipeline,six_months
+0066000000OTJT5AAP,BestCase,Stage 3 - Proof,23800,1/1/2016,G_ClosedWon-InForecast,TRUE,Pipeline,six_months
+0066000000vwfghAAA,Forecast,Stage 4 - Commercial Agmt,375000,2/26/2016,G_ClosedWon-InForecast,TRUE,Pipeline,six_months
+0066000001f1kIwAAI,Forecast,Stage 4 - Commercial Agmt,137500,2/29/2016,G_ClosedWon-InForecast,TRUE,Pipeline,six_months
+0066000001f1uC8AAI,BestCase,Stage 3 - Proof,110000,3/2/2016,G_ClosedWon-InForecast,TRUE,Pipeline,six_months
+0066000001f1uFDAAY,BestCase,Stage 3 - Proof,200000,2/13/2016,G_ClosedWon-InForecast,TRUE,Pipeline,six_months
+0061500000SFdWi,Forecast,Stage 4 - Commercial Agmt,12888,3/31/2016,G_ClosedWon-InForecast,TRUE,Pipeline,six_months
+0061500000SFdWj,BestCase,Stage 3 - Proof,24300,2/15/2016,G_ClosedWon-InForecast,TRUE,Pipeline,six_months
+0061500000SFdWm,Forecast,Stage 4 - Commercial Agmt,69000,3/31/2016,G_ClosedWon-InForecast,TRUE,Pipeline,six_months
+0061500000SFdWg,BestCase,Stage 3 - Proof,157000,3/31/2016,G_ClosedWon-InForecast,TRUE,Pipeline,six_months
+0061500000SFdWf,Forecast,Stage 4 - Commercial Agmt,56522,3/31/2016,G_ClosedWon-InForecast,TRUE,Pipeline,six_months
+0061500000TvHNC,Forecast,Stage 4 - Commercial Agmt,39130,3/31/2016,G_ClosedWon-InForecast,TRUE,Pipeline,six_months
+0061500000TBlgx,Forecast,Stage 6 - Awaiting Order,70000,3/31/2016,G_ClosedWon-InForecast,TRUE,Pipeline,six_months
+0061500000TBlhA,Forecast,Stage 4 - Commercial Agmt,100000,2/27/2016,G_ClosedWon-InForecast,TRUE,Pipeline,six_months
+0061500000TBlhD,BestCase,Stage 3 - Proof,120000,3/31/2016,G_ClosedWon-InForecast,TRUE,Pipeline,six_months
+0061500000TBlhF,Forecast,Stage 4 - Commercial Agmt,4000,6/30/2016,G_ClosedWon-InForecast,TRUE,Pipeline,six_months
+0061500000SFdWi,BestCase,Stage 3 - Proof,37500,3/31/2016,G_ClosedWon-InForecast,TRUE,Pipeline,six_months
+0061500000SFdWj,Forecast,Stage 4 - Commercial Agmt,17500,6/30/2016,G_ClosedWon-InForecast,TRUE,Pipeline,six_months
+0061500000SFdWm,BestCase,Stage 3 - Proof,50000,3/31/2016,G_ClosedWon-InForecast,TRUE,Pipeline,six_months
+0061500000SFdWg,Forecast,Stage 4 - Commercial Agmt,135000,2/19/2016,G_ClosedWon-InForecast,TRUE,Pipeline,six_months
+0061500000SFdWf,Forecast,Stage 4 - Commercial Agmt,60000,6/30/2016,G_ClosedWon-InForecast,TRUE,Pipeline,six_months
+0061500000TvHNC,BestCase,Stage 3 - Proof,52500,1/29/2016,G_ClosedWon-InForecast,TRUE,Pipeline,six_months
+0061500000TBlgx,BestCase,Stage 3 - Proof,68000,3/31/2016,G_ClosedWon-InForecast,TRUE,Pipeline,six_months
+0061500000TBlhA,BestCase,Stage 3 - Proof,35000,3/31/2016,G_ClosedWon-InForecast,TRUE,Pipeline,six_months
+0061500000TBlhD,Forecast,Stage 7 - Order Rcvd,110000,6/30/2016,G_ClosedWon-InForecast,TRUE,Pipeline,six_months
+0061500000TBlhF,Forecast,Stage 7 - Order Rcvd,40000,3/31/2016,G_ClosedWon-InForecast,TRUE,Pipeline,six_months
+0061500000SFdWi,Forecast,Stage 7 - Order Rcvd,47500,5/1/2016,G_ClosedWon-InForecast,TRUE,Pipeline,six_months
+0061500000SFdWj,Forecast,Stage 7 - Order Rcvd,46666.65,3/28/2016,G_ClosedWon-InForecast,TRUE,Pipeline,six_months
+0061500000SFdWm,Forecast,Stage 7 - Order Rcvd,53333,3/31/2016,G_ClosedWon-InForecast,TRUE,Pipeline,six_months
+0061500000SFdWg,Forecast,Stage 7 - Order Rcvd,37500,2/27/2016,G_ClosedWon-InForecast,TRUE,Pipeline,six_months
+0061500000TBlgx,Forecast,Stage 7 - Order Rcvd,19565,6/4/2016,G_ClosedWon-InForecast,TRUE,Pipeline,six_months
+0061500000TBlhA,Forecast,Stage 7 - Order Rcvd,62500,6/1/2016,G_ClosedWon-InForecast,TRUE,Pipeline,six_months
+0061500000TBlhD,Forecast,Stage 7 - Order Rcvd,88333.33,1/28/2016,G_ClosedWon-InForecast,TRUE,Pipeline,six_months
+0061500000TBlhF,Forecast,Stage 7 - Order Rcvd,105833.33,2/29/2016,G_ClosedWon-InForecast,TRUE,Pipeline,six_months
+0061500000SFdWi,Forecast,Stage 7 - Order Rcvd,50000,5/20/2016,G_ClosedWon-InForecast,TRUE,Pipeline,six_months
+0061500000SFdWj,Forecast,Stage 7 - Order Rcvd,24000,2/13/2016,G_ClosedWon-InForecast,TRUE,Pipeline,six_months
+0061500000SFdWm,Forecast,Stage 7 - Order Rcvd,100000,3/31/2016,G_ClosedWon-InForecast,TRUE,Pipeline,six_months
+0061500000SFdWg,BestCase,Stage 3 - Proof,25000,2/29/2016,G_ClosedWon-InForecast,TRUE,Pipeline,six_months
+0061500000SFdWf,BestCase,Stage 3 - Proof,93844,1/31/2016,G_ClosedWon-InForecast,TRUE,Pipeline,six_months
+0061500000TvHNC,BestCase,Stage 3 - Proof,150000,2/12/2016,G_ClosedWon-InForecast,TRUE,Pipeline,six_months
+0061500000TBlgx,Forecast,Stage 4 - Commercial Agmt,30000,1/31/2016,G_ClosedWon-InForecast,TRUE,Pipeline,six_months
+0061500000TBlhA,BestCase,Stage 3 - Proof,15000,1/31/2016,G_ClosedWon-InForecast,TRUE,Pipeline,six_months
+0061500000TBlhD,Forecast,Stage 7 - Order Rcvd,2750,1/31/2016,G_ClosedWon-InForecast,TRUE,Pipeline,six_months
+0061500000TBlhF,Forecast,Stage 7 - Order Rcvd,12000,1/31/2016,G_ClosedWon-InForecast,TRUE,Pipeline,six_months
+0061500000SFdWi,Forecast,Stage 7 - Order Rcvd,8000,1/31/2016,G_ClosedWon-InForecast,TRUE,Pipeline,six_months
+0061500000SFdWj,Forecast,Stage 7 - Order Rcvd,0,12/29/2015,G_ClosedWon-InForecast,TRUE,Pipeline,six_months
+0061500000SFdWm,Forecast,Stage 4 - Commercial Agmt,39130,3/31/2016,G_ClosedWon-InForecast,TRUE,Pipeline,six_months
+0061500000SFdWg,Forecast,Stage 4 - Commercial Agmt,10000,3/31/2016,G_ClosedWon-InForecast,TRUE,Pipeline,six_months
+0061500000SFdWf,BestCase,Stage 3 - Proof,178000,2/21/2016,G_ClosedWon-InForecast,TRUE,Pipeline,six_months
+0061500000TvHNC,Forecast,Stage 5 - Purchasing,65000,1/15/2016,G_ClosedWon-InForecast,TRUE,Pipeline,six_months
+0061500000TBlgx,BestCase,Stage 3 - Proof,110000,2/29/2016,G_ClosedWon-InForecast,TRUE,Pipeline,six_months
+0061500000TBlhA,Forecast,Stage 5 - Purchasing,55000,1/30/2016,G_ClosedWon-InForecast,TRUE,Pipeline,six_months
+0061500000TBlhD,Forecast,Stage 4 - Commercial Agmt,40000,6/30/2016,G_ClosedWon-InForecast,TRUE,Pipeline,six_months
+0061500000TBlhF,Pipeline,Stage 1 - Qualified Oppty,12000,7/21/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000SFdWm,Pipeline,Stage 2 - Defined Oppty,500000,9/30/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000SFdWg,Pipeline,Stage 1 - Qualified Oppty,167000,3/29/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000TBlgx,Pipeline,Stage 1 - Qualified Oppty,375000,10/14/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000TBlhA,Pipeline,Stage 1 - Qualified Oppty,50685,8/7/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000TBlhD,Pipeline,Stage 2 - Defined Oppty,28000,3/30/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000TBlhF,Pipeline,Stage 2 - Defined Oppty,48750,4/30/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000SFdWi,Pipeline,Stage 2 - Defined Oppty,12000,3/31/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0066000001mUWZZAA4,Pipeline,Stage 0 - Qualified Lead,0,12/30/2015,H_EnteredForecast,TRUE,Pipeline,six_months
+0066000001mUX6LAAW,Pipeline,Stage 1 - Qualified Oppty,43478,2/29/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0066000001mUXx7AAG,Pipeline,Stage 1 - Qualified Oppty,152500,5/30/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0066000000Nb2AlAAJ,Pipeline,Stage 1 - Qualified Oppty,100000,7/25/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0066000000OTJ4jAAH,Pipeline,Stage 2 - Defined Oppty,50000,3/30/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0066000000OTJT5AAP,Pipeline,Stage 2 - Defined Oppty,35000,3/25/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0066000000vwfghAAA,Pipeline,Stage 1 - Qualified Oppty,50000,7/29/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0066000001f1kIwAAI,Pipeline,Stage 1 - Qualified Oppty,0,3/31/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0066000001f1uC8AAI,Pipeline,Stage 0 - Qualified Lead,37000,8/21/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0066000001f1uFDAAY,Pipeline,Stage 0 - Qualified Lead,75000,9/30/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000SFdWi,Pipeline,Stage 1 - Qualified Oppty,50000,5/10/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000SFdWj,Pipeline,Stage 1 - Qualified Oppty,25000,4/30/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000SFdWm,Pipeline,Stage 1 - Qualified Oppty,40000,3/31/2017,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000SFdWg,Pipeline,Stage 1 - Qualified Oppty,30000,3/20/2017,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000SFdWf,Pipeline,Stage 1 - Qualified Oppty,53333,3/31/2017,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000TvHNC,Pipeline,Stage 0 - Qualified Lead,60000,9/27/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000TBlgx,Pipeline,Stage 2 - Defined Oppty,30000,3/18/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000TBlhA,Pipeline,Stage 1 - Qualified Oppty,200000,6/30/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000TBlhD,Pipeline,Stage 2 - Defined Oppty,35000,2/23/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000TBlhF,Pipeline,Stage 0 - Qualified Lead,80000,12/31/2017,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000SFdWi,Pipeline,Stage 2 - Defined Oppty,100000,3/31/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000SFdWj,Pipeline,Stage 0 - Qualified Lead,0,3/31/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000SFdWm,Pipeline,Stage 1 - Qualified Oppty,100000,3/31/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000SFdWg,Pipeline,Stage 1 - Qualified Oppty,28000,4/30/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000SFdWf,Pipeline,Stage 0 - Qualified Lead,0,6/30/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000TvHNC,Pipeline,Stage 1 - Qualified Oppty,25000,3/31/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000TBlgx,Pipeline,Stage 2 - Defined Oppty,440000,3/29/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000TBlhA,Pipeline,Stage 0 - Qualified Lead,0,4/30/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000TBlhD,Pipeline,Stage 0 - Qualified Lead,0,4/30/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000TBlhF,Pipeline,Stage 0 - Qualified Lead,0,2/24/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000SFdWi,Pipeline,Stage 2 - Defined Oppty,200000,3/30/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000SFdWj,Pipeline,Stage 1 - Qualified Oppty,86667,7/1/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000SFdWm,Pipeline,Stage 1 - Qualified Oppty,53285,6/30/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000SFdWg,Pipeline,Stage 0 - Qualified Lead,64000,9/28/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000TBlgx,Pipeline,Stage 0 - Qualified Lead,64000,9/28/2017,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000TBlhA,Pipeline,Stage 1 - Qualified Oppty,74949,2/27/2017,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000TBlhD,Pipeline,Stage 1 - Qualified Oppty,84000,8/23/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000TBlhF,Pipeline,Stage 0 - Qualified Lead,41666.66667,2/27/2017,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000SFdWi,Pipeline,Stage 1 - Qualified Oppty,54000,9/29/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000SFdWj,Pipeline,Stage 1 - Qualified Oppty,200000,9/29/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000SFdWm,Pipeline,Stage 1 - Qualified Oppty,38333,9/30/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000SFdWg,Pipeline,Stage 0 - Qualified Lead,13250,3/27/2017,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000SFdWf,Pipeline,Stage 1 - Qualified Oppty,19200,9/30/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000TvHNC,Pipeline,Stage 1 - Qualified Oppty,46154,9/30/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000TBlgx,Pipeline,Stage 0 - Qualified Lead,90500,3/30/2017,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000TBlhA,Pipeline,Stage 0 - Qualified Lead,120500,3/31/2017,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000TBlhD,Pipeline,Stage 1 - Qualified Oppty,125000,9/30/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000TBlhF,Pipeline,Stage 1 - Qualified Oppty,120000,5/15/2017,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000SFdWi,Pipeline,Stage 1 - Qualified Oppty,13000,9/30/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000SFdWj,Pipeline,Stage 1 - Qualified Oppty,80000,6/29/2017,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000SFdWm,Pipeline,Stage 1 - Qualified Oppty,64000,11/14/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000SFdWg,Pipeline,Stage 1 - Qualified Oppty,36400,10/1/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000SFdWf,Pipeline,Stage 1 - Qualified Oppty,72000,11/30/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000TvHNC,Pipeline,Stage 1 - Qualified Oppty,105000,11/15/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000TBlgx,Pipeline,Stage 1 - Qualified Oppty,70000,11/30/2017,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000TBlhA,Pipeline,Stage 0 - Qualified Lead,85253,8/18/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000TBlhD,Pipeline,Stage 1 - Qualified Oppty,54667,11/15/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000TBlhF,Pipeline,Stage 1 - Qualified Oppty,157759,8/18/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000SFdWm,Pipeline,Stage 1 - Qualified Oppty,102041,1/31/2017,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000SFdWg,Pipeline,Stage 1 - Qualified Oppty,35000,11/29/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000TBlgx,Pipeline,Stage 1 - Qualified Oppty,59250,12/19/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000TBlhA,Pipeline,Stage 1 - Qualified Oppty,50000,11/30/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000TBlhD,Pipeline,Stage 0 - Qualified Lead,60300,12/23/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000TBlhF,Pipeline,Stage 1 - Qualified Oppty,50000,11/30/2017,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000SFdWi,Pipeline,Stage 1 - Qualified Oppty,58000,2/3/2017,H_EnteredForecast,TRUE,Pipeline,six_months
+0066000001mUWZZAA4,Pipeline,Stage 1 - Qualified Oppty,33333,12/30/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0066000001mUX6LAAW,Pipeline,Stage 1 - Qualified Oppty,33333,12/30/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0066000001mUXx7AAG,Pipeline,Stage 0 - Qualified Lead,9718,12/30/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0066000000Nb2AlAAJ,Pipeline,Stage 1 - Qualified Oppty,95000,12/15/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0066000000OTJ4jAAH,Pipeline,Stage 1 - Qualified Oppty,95000,12/15/2017,H_EnteredForecast,TRUE,Pipeline,six_months
+0066000000OTJT5AAP,Pipeline,Stage 1 - Qualified Oppty,85000,1/15/2017,H_EnteredForecast,TRUE,Pipeline,six_months
+0066000000vwfghAAA,Pipeline,Stage 1 - Qualified Oppty,45450,12/16/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0066000001f1kIwAAI,Pipeline,Stage 1 - Qualified Oppty,19830,12/30/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0066000001f1uC8AAI,Pipeline,Stage 1 - Qualified Oppty,45450,12/16/2017,H_EnteredForecast,TRUE,Pipeline,six_months
+0066000001f1uFDAAY,Pipeline,Stage 1 - Qualified Oppty,102041,1/31/2018,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000SFdWi,Pipeline,Stage 1 - Qualified Oppty,300000,12/31/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000SFdWj,Pipeline,Stage 1 - Qualified Oppty,80000,12/31/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000SFdWm,Pipeline,Stage 1 - Qualified Oppty,58000,2/3/2018,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000SFdWg,Pipeline,Stage 1 - Qualified Oppty,50333,12/31/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000SFdWf,Pipeline,Stage 1 - Qualified Oppty,57143,12/29/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000TvHNC,Pipeline,Stage 1 - Qualified Oppty,30000,12/31/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000TBlgx,Pipeline,Stage 1 - Qualified Oppty,80000,12/31/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000TBlhA,Pipeline,Stage 1 - Qualified Oppty,117500,3/28/2017,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000TBlhD,Pipeline,Stage 1 - Qualified Oppty,219123,9/30/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000TBlhF,Pipeline,Stage 1 - Qualified Oppty,36000,1/19/2018,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000SFdWi,Pipeline,Stage 1 - Qualified Oppty,36000,1/19/2017,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000SFdWj,Pipeline,Stage 1 - Qualified Oppty,20952,7/14/2018,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000SFdWm,Pipeline,Stage 1 - Qualified Oppty,131818,6/30/2017,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000SFdWg,Pipeline,Stage 1 - Qualified Oppty,98500,12/28/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000SFdWf,Pipeline,Stage 1 - Qualified Oppty,131818,6/30/2018,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000TvHNC,Pipeline,Stage 1 - Qualified Oppty,20952,7/14/2017,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000TBlgx,Pipeline,Stage 1 - Qualified Oppty,20952,7/14/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000TBlhA,Pipeline,Stage 1 - Qualified Oppty,98500,12/28/2017,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000TBlhD,Pipeline,Stage 1 - Qualified Oppty,40000,7/31/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000TBlhF,Pipeline,Stage 1 - Qualified Oppty,40000,7/31/2017,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000SFdWi,Pipeline,Stage 1 - Qualified Oppty,100000,9/30/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000SFdWj,Pipeline,Stage 1 - Qualified Oppty,40000,7/31/2018,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000SFdWm,Pipeline,Stage 0 - Qualified Lead,95594,7/31/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000SFdWg,Pipeline,Stage 1 - Qualified Oppty,36522,11/30/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000TBlgx,Pipeline,Stage 0 - Qualified Lead,250000,9/1/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000TBlhA,Pipeline,Stage 1 - Qualified Oppty,272466,12/31/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000TBlhD,Pipeline,Stage 0 - Qualified Lead,23500,12/31/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000TBlhF,Pipeline,Stage 1 - Qualified Oppty,90000,12/31/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000SFdWi,Pipeline,Stage 1 - Qualified Oppty,89002,9/30/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000SFdWj,Pipeline,Stage 0 - Qualified Lead,68750,12/29/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000SFdWm,Pipeline,Stage 1 - Qualified Oppty,10000,10/31/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000SFdWg,Pipeline,Stage 1 - Qualified Oppty,10000,10/31/2017,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000SFdWf,Pipeline,Stage 1 - Qualified Oppty,83333,11/30/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000TvHNC,Pipeline,Stage 1 - Qualified Oppty,11354,12/31/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000TBlgx,Pipeline,Stage 1 - Qualified Oppty,112000,12/31/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000TBlhA,Pipeline,Stage 1 - Qualified Oppty,57400,12/31/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000TBlhD,Pipeline,Stage 1 - Qualified Oppty,79962,3/31/2017,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000TBlhF,Pipeline,Stage 1 - Qualified Oppty,79962,3/31/2018,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000SFdWi,Pipeline,Stage 0 - Qualified Lead,11000,2/1/2018,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000SFdWj,Pipeline,Stage 0 - Qualified Lead,11000,2/1/2017,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000SFdWm,Pipeline,Stage 1 - Qualified Oppty,19000,2/1/2017,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000SFdWg,Pipeline,Stage 1 - Qualified Oppty,19000,2/1/2018,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000SFdWf,Pipeline,Stage 1 - Qualified Oppty,6667,10/31/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000TvHNC,Pipeline,Stage 0 - Qualified Lead,4230.33,12/30/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000TBlgx,Pipeline,Stage 1 - Qualified Oppty,52778,2/2/2017,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000TBlhA,Pipeline,Stage 1 - Qualified Oppty,75000,7/31/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000TBlhD,Pipeline,Stage 1 - Qualified Oppty,167708,9/30/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000TBlhF,Pipeline,Stage 1 - Qualified Oppty,100000,12/31/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000SFdWm,Pipeline,Stage 1 - Qualified Oppty,464200,12/31/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000SFdWg,Pipeline,Stage 1 - Qualified Oppty,12000,12/30/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000TBlgx,Pipeline,Stage 1 - Qualified Oppty,12000,12/30/2017,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000TBlhA,Pipeline,Stage 1 - Qualified Oppty,7971,12/21/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000TBlhD,Pipeline,Stage 0 - Qualified Lead,25000,11/30/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000TBlhF,Pipeline,Stage 0 - Qualified Lead,25000,11/30/2017,H_EnteredForecast,TRUE,Pipeline,six_months
+0061500000SFdWi,Pipeline,Stage 1 - Qualified Oppty,22000,2/1/2016,H_EnteredForecast,TRUE,Pipeline,six_months
+0066000001mUWZZAA4,Pipeline,Stage 1 - Qualified Oppty,300000,12/31/2017,H_EnteredForecast,TRUE,Pipeline,six_months
+0066000001mUX6LAAW,Forecast,Stage 5 - Purchasing,-14348,1/31/2016,F_LeftForecast,TRUE,Pipeline,six_months
+0066000001mUXx7AAG,BestCase,Stage 3 - Proof,-60000,6/30/2016,F_LeftForecast,TRUE,Pipeline,six_months
+0066000000Nb2AlAAJ,BestCase,Stage 3 - Proof,-25000,3/31/2016,F_LeftForecast,TRUE,Pipeline,six_months
+0066000000OTJ4jAAH,BestCase,Stage 3 - Proof,-25000,6/30/2016,F_LeftForecast,TRUE,Pipeline,six_months
+0066000000OTJT5AAP,BestCase,Stage 3 - Proof,-50000,6/30/2016,F_LeftForecast,TRUE,Pipeline,six_months
+0066000000vwfghAAA,BestCase,Stage 3 - Proof,-60000,6/30/2016,F_LeftForecast,TRUE,Pipeline,six_months
+0066000001f1kIwAAI,BestCase,Stage 3 - Proof,-50000,6/30/2016,F_LeftForecast,TRUE,Pipeline,six_months
+0066000001f1uC8AAI,Forecast,Stage 4 - Commercial Agmt,-130000,3/31/2016,F_LeftForecast,TRUE,Pipeline,six_months
+0066000001f1uFDAAY,BestCase,Stage 3 - Proof,-99000,12/31/2015,F_LeftForecast,TRUE,Pipeline,six_months
+0061500000SFdWi,BestCase,Stage 3 - Proof,35000,3/31/2016,D_ClosedOther,TRUE,Pipeline,six_months
+0061500000SFdWj,BestCase,Stage 3 - Proof,25000,6/30/2016,D_ClosedOther,TRUE,Pipeline,six_months
+0061500000SFdWm,Forecast,Stage 4 - Commercial Agmt,30000,3/31/2016,D_ClosedOther,TRUE,Pipeline,six_months
+0061500000SFdWg,BestCase,Stage 3 - Proof,20000,6/30/2016,D_ClosedOther,TRUE,Pipeline,six_months
+0061500000SFdWf,BestCase,Stage 3 - Proof,0,7/29/2016,D_ClosedOther,TRUE,Pipeline,six_months
+0061500000TvHNC,Forecast,Stage 4 - Commercial Agmt,14800,3/31/2016,D_ClosedOther,TRUE,Pipeline,six_months
+0061500000TBlgx,BestCase,Stage 3 - Proof,42500,3/31/2016,D_ClosedOther,TRUE,Pipeline,six_months
+0061500000TBlhA,BestCase,Stage 3 - Proof,80000,5/13/2016,C_Lost,TRUE,Pipeline,six_months
+0061500000TBlhD,BestCase,Stage 3 - Proof,300000,4/30/2016,C_Lost,TRUE,Pipeline,six_months
+0061500000TBlhF,BestCase,Stage 3 - Proof,50000,6/30/2016,C_Lost,TRUE,Pipeline,six_months
+0061500000SFdWi,Forecast,Stage 4 - Commercial Agmt,35000,6/30/2016,C_Lost,TRUE,Pipeline,six_months
+0061500000SFdWj,BestCase,Stage 3 - Proof,51000,2/29/2016,C_Lost,TRUE,Pipeline,six_months
+0061500000SFdWm,BestCase,Stage 3 - Proof,25000,6/30/2016,C_Lost,TRUE,Pipeline,six_months
+0061500000SFdWg,BestCase,Stage 3 - Proof,35000,3/31/2016,C_Lost,TRUE,Pipeline,six_months
+0061500000SFdWf,Forecast,Stage 4 - Commercial Agmt,50000,1/29/2016,C_Lost,TRUE,Pipeline,six_months
+0061500000TvHNC,BestCase,Stage 3 - Proof,40000,6/30/2016,C_Lost,TRUE,Pipeline,six_months
+0061500000TBlgx,BestCase,Stage 3 - Proof,25000,2/12/2016,C_Lost,TRUE,Pipeline,six_months
+0061500000TBlhA,BestCase,Stage 3 - Proof,25000,1/29/2016,C_Lost,TRUE,Pipeline,six_months
+0061500000TBlhD,BestCase,Stage 3 - Proof,10000,6/30/2016,C_Lost,TRUE,Pipeline,six_months
+0061500000TBlhF,Forecast,Stage 4 - Commercial Agmt,35000,3/31/2016,C_Lost,TRUE,Pipeline,six_months
+0061500000SFdWi,BestCase,Stage 3 - Proof,0,4/29/2016,C_Lost,TRUE,Pipeline,six_months
+0061500000SFdWj,BestCase,Stage 3 - Proof,25000,4/30/2016,C_Lost,TRUE,Pipeline,six_months
+0061500000SFdWm,BestCase,Stage 3 - Proof,125000,3/31/2016,C_Lost,TRUE,Pipeline,six_months
+0061500000SFdWg,BestCase,Stage 3 - Proof,90000,2/29/2016,C_Lost,TRUE,Pipeline,six_months
+0061500000TBlgx,BestCase,Stage 3 - Proof,45000,4/29/2016,C_Lost,TRUE,Pipeline,six_months
+0061500000TBlhA,Forecast,Stage 4 - Commercial Agmt,60500,4/29/2016,C_Lost,TRUE,Pipeline,six_months
+0061500000TBlhD,BestCase,Stage 3 - Proof,128000,3/31/2016,C_Lost,TRUE,Pipeline,six_months
+0061500000TBlhF,BestCase,Stage 3 - Proof,25000,3/31/2016,C_Lost,TRUE,Pipeline,six_months
+0061500000SFdWi,BestCase,Stage 3 - Proof,25000,3/30/2016,C_Lost,TRUE,Pipeline,six_months
+0061500000SFdWj,Forecast,Stage 6 - Awaiting Order,6300,6/30/2016,C_Lost,TRUE,Pipeline,six_months
+0061500000SFdWm,BestCase,Stage 3 - Proof,42500,2/29/2016,C_Lost,TRUE,Pipeline,six_months
+0061500000SFdWg,BestCase,Stage 3 - Proof,35000,3/31/2016,C_Lost,TRUE,Pipeline,six_months
+0061500000SFdWf,BestCase,Stage 3 - Proof,35000,1/29/2016,C_Lost,TRUE,Pipeline,six_months
+0061500000TvHNC,BestCase,Stage 3 - Proof,75000,2/29/2016,C_Lost,TRUE,Pipeline,six_months
+0061500000TBlgx,BestCase,Stage 3 - Proof,175000,3/18/2016,C_Lost,TRUE,Pipeline,six_months
+0061500000TBlhA,Forecast,Stage 7 - Order Rcvd,9500,3/1/2017,B_Expanded_Amount,TRUE,Pipeline,six_months
+0061500000TBlhD,BestCase,Stage 3 - Proof,150000,6/30/2016,B_Expanded_Amount,TRUE,Pipeline,six_months
+0061500000TBlhF,BestCase,Stage 3 - Proof,224000,2/22/2016,B_Expanded_Amount,TRUE,Pipeline,six_months
+0061500000SFdWi,BestCase,Stage 3 - Proof,42500,3/31/2016,B_Expanded_Amount,TRUE,Pipeline,six_months
+0061500000SFdWj,BestCase,Stage 3 - Proof,110500,3/31/2016,B_Expanded_Amount,TRUE,Pipeline,six_months
+0061500000SFdWm,BestCase,Stage 3 - Proof,225000,3/30/2016,B_Reduced_Amount,TRUE,Pipeline,six_months
+0061500000SFdWg,BestCase,Stage 3 - Proof,135000,6/30/2016,B_Reduced_Amount,TRUE,Pipeline,six_months
+0061500000SFdWf,BestCase,Stage 3 - Proof,300000,6/30/2016,B_Reduced_Amount,TRUE,Pipeline,six_months
+0061500000TvHNC,BestCase,Stage 3 - Proof,225000,6/30/2016,B_Reduced_Amount,TRUE,Pipeline,six_months
+0061500000TBlgx,Forecast,Stage 4 - Commercial Agmt,45500,9/30/2016,B_Reduced_Amount,TRUE,Pipeline,six_months
+0061500000TBlhA,BestCase,Stage 3 - Proof,42500,6/30/2016,B_Reduced_Amount,TRUE,Pipeline,six_months
+0061500000TBlhD,BestCase,Stage 3 - Proof,50000,4/30/2016,B_Reduced_Amount,TRUE,Pipeline,six_months
+0061500000TBlhF,Forecast,Stage 7 - Order Rcvd,100000,3/31/2017,B_Reduced_Amount,TRUE,Pipeline,six_months
+0061500000SFdWm,BestCase,Stage 3 - Proof,75000,3/31/2016,B_Reduced_Amount,TRUE,Pipeline,six_months
+0061500000SFdWg,BestCase,Stage 3 - Proof,300000,6/30/2016,B_Reduced_Amount,TRUE,Pipeline,six_months
+0061500000TBlgx,Forecast,Stage 4 - Commercial Agmt,15000,3/31/2016,B_Reduced_Amount,TRUE,Pipeline,six_months
+,,,,7/9/2016,,TRUE,Pipeline,six_months
+,,,,7/9/2016,,TRUE,Pipeline,six_months
